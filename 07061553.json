@@ -11,7 +11,7 @@
       "type": 0,
       "url": "https://raw.githubusercontent.com/sqspot/tac/main/直播源(改).txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "logo": "https://epg.112114.xyz/logo/{name}.jar"
     },    
     {
       "name": "FongMi",
@@ -25,26 +25,26 @@
       "type": 0,
       "url": "https://raw.githubusercontent.com/sqspot/tac/main/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "logo": "https://epg.112114.xyz/logo/{name}.jar"
     },
     {
       "name": "直播1",
       "type": 0,
       "url": "http://home.jundie.top:81/Cat/tv/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "logo": "https://epg.112114.xyz/logo/{name}.jar"
     },
     {
       "name": "直播2",
       "type": 0,
       "url": "https://dashu0754.com/api/v3/file/get/111/%E6%82%9F%E7%A9%BA.txt?sign=Vh_6WlBWzq1GeV88r1QjRQE9DCNcz5rBZpmSMo_q_y8%3D%3A0",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "logo": "https://epg.112114.xyz/logo/{name}.jar"
     }
   ],
     //{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vY2hlbmd4dWVsaTgxODkxMy9tYW9UVi9tYWluL2xpdmUlMjAoMSkudHh0"]}]}],
 
-"spider":"clan://download/panda1123.jar",
+"spider":"./panda1123.jar",
 //"spider":"clan://download/07061553.jar", //
 //"spider":"clan://download/666.json", //
 //"spider":"clan://download/666.png", //
@@ -59,7 +59,7 @@
 //{"key":"泥巴","name":"👑泥視頻(海外推荐)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"If101","name":"✈️If101(海外推荐)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"haiwaicaiji","name":"🍁海外看影视(海外推荐)","type":0,"api":"https://haiwaikan.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Alist","name":"🗂Alist网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://download/Alist.json"},
+{"key":"csp_Alist","name":"🗂Alist网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"./Alist.json"},
 //{"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/61730/alist_4.json?sign=kXqVyfQzRnYJcFB5nri3SEHAiMsJRxoh14dS7-XeuzI%3D%3A0"},
 //{"key":"Alips","name":"🔍Alist盘搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/Alist.json"},
 {"key":"csp_bendi","name":"📂本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
@@ -84,15 +84,15 @@
 {"key":"Yanet","name":"🦆鴨奈飛(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349","jar":"https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0"},
 {"key":"csp_DiDuan","name":"🎬低端影视(SP)","api":"csp_Ddrk","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mjxq_spider","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_CZSPP","name":"🚬厂长资源(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1,"jar":"clan://download/07061553.jar"},
+{"key":"csp_CZSPP","name":"🚬厂长资源(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1,"jar":"./07061553.jar"},
 {"key":"csp_Cokemv","name":"📺Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"🍷两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🐼Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_BBB","name":"🅱️哔滴影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_Kmys","name":"🐞酷猫影视","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"clan://download/07061553.jar"},
+//{"key":"csp_Kmys","name":"🐞酷猫影视","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./07061553.jar"},
 //{"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"spider_IKan","name":"✨爱看(🐞)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"clan://download/07061553.jar"},
-//{"key":"csp_DY1990","name":"💙90(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1,"jar":"clan://download/07061553.jar"},
+//{"key":"spider_IKan","name":"✨爱看(🐞)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./07061553.jar"},
+//{"key":"csp_DY1990","name":"💙90(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1,"jar":"./07061553.jar"},
 {"key":"csp_appys_美剧虫","name":"🐞美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.meijuchong.cc/api.php/v1.vod"},
 #
 #XB片源
@@ -737,7 +737,7 @@
 #
 #其他及待測試片源
 {"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_AliPanSou","name":"🐱喵狸盘搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"jar":"clan://download/07061553.jar"},
+{"key":"csp_AliPanSou","name":"🐱喵狸盘搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"jar":"./07061553.jar"},
 #
 {"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"}
 ],
