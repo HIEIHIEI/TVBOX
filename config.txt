@@ -1,0 +1,152 @@
+{
+  "channelList": [
+    {
+      "url": "https://youtu.be/ViJ3XiN6Q3M",
+      "name": "東森購物一台"
+    },
+    {
+      "url": "https://youtu.be/_Vlzn9qAHD4",
+      "name": "東森購物二台"
+    },
+    {
+      "url": "https://youtu.be/Z50JFuNgvB0",
+      "name": "東森購物三台"
+    },
+    {
+      "url": "https://youtu.be/u0NYyH3ZesE",
+      "name": "東森購物五台"
+    },
+    {
+      "url": "https://youtu.be/_pZQ1Lk0xMA",
+      "name": "MOMO購物一台"
+    },
+    {
+      "url": "https://youtu.be/xbNWkUyxQGM",
+      "name": "MOMO購物二台"
+    },
+    {
+      "url": "https://today.line.me/tw/v2/article/jggMBa",
+      "name": "TVBS新聞"
+    },
+    {
+      "url": "https://today.line.me/tw/v2/article/grrvVZ",
+      "name": "東森新聞"
+    },
+    {
+      "url": "https://youtu.be/_QbRXRnHMVY",
+      "name": "中天新聞"
+    },
+    {
+      "url": "https://youtu.be/xL0ch83RAK8",
+      "name": "台視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/c/twctvnews/live",
+      "name": "中視新聞"
+    },
+    {
+      "url": "https://pse.is/CTSNewsLive",
+      "name": "華視新聞"
+    },
+    {
+      "url": "https://youtu.be/ylYJSBUgaMA",
+      "name": "民視新聞"
+    },
+    {
+      "url": "https://youtube.com/live/jlldIiGA5bU?feature=shares",
+      "name": "三立新聞"
+    },
+    {
+      "url": "https://youtu.be/CKjSm5ZeehE",
+      "name": "三立 iNEWS 新聞"
+    },
+    {
+      "url": "https://lihi1.cc/EVpiW",
+      "name": "寰宇新聞"
+    },
+    {
+      "url": "http://23.237.10.66:16334",
+      "name": "民視"
+    },
+    {
+      "url": "https://youtu.be/uDqQo8a7Xmk",
+      "name": "台視"
+    },
+    {
+      "url": "rtmp://59.124.75.138/sat/tv091",
+      "name": "中視"
+    },
+    {
+      "url": "rtmp://59.124.75.138/sat/tv111",
+      "name": "華視"
+    },
+    {
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2446",
+      "name": "動物星球"
+    },
+    {
+      "url": "http://125.227.210.55:15714/VideoInput/play.ts",
+      "name": "三立台灣台(暫無)"
+    },
+    {
+      "url": "http://59.125.101.187:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8",
+      "name": "三立都會台(暫無)"
+    },
+    {
+      "url": "https://youtu.be/4Uc00FPs27M",
+      "name": "公共電視"
+    },
+    {
+      "url": "https://youtu.be/oV_i3Hsl_zg",
+      "name": "大愛一臺"
+    },
+    {
+      "url": "https://youtu.be/DTNkEm6jaqQ",
+      "name": "大愛二臺"
+    },
+    {
+      "url": "https://youtu.be/MIqUplvSRWA",
+      "name": "大愛一臺全球直播"
+    },
+    {
+      "url": "https://youtu.be/oPx1u9WQrWg",
+      "name": "中天亞洲台"
+    },
+    {
+      "url": "https://www.youtube.com/user/57ETFN/live",
+      "name": "東森財經"
+    },
+    {
+      "url": "https://youtu.be/ni1CxDStx0Y",
+      "name": "小猪佩奇 中文直播頻道"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8",
+      "name": "YOYO TV 直播(暫無)"
+    },
+    {
+      "url": "https://youtu.be/JJqXeRFsLjE",
+      "name": "KC Zoo Penguin Cam 4K"
+    },
+    {
+      "url": "https://youtu.be/rkPCR6Ujtak",
+      "name": "4K Animal World"
+    },
+    {
+      "url": "https://youtube.com/live/ZR-34cglqzQ?feature=shares",
+      "name": "Animals Of The World 4K"
+    },
+    {
+      "url": "https://youtu.be/1f1wE-z4cTw",
+      "name": "Collection of wild animals 4K"
+    },
+    {
+      "url": "https://youtube.com/live/EkbMp6ONzcU?feature=shares",
+      "name": "Amazing Wildlife of The World 4K"
+    },
+    {
+      "url": "https://youtu.be/Du8OyyaOgN4",
+      "name": "Under Red Sea 4K - Incredible Underwater World"
+    }
+  ]
+}
