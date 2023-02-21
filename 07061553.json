@@ -77,10 +77,10 @@
 {"key":"MGT","name":"🍋芒果(官源)","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"youku","name":"👑优酷(官源)","type":0,"api":"https://caiji.nxflv.com/api.php/provide/vod/?from=youku","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"youku","name":"👑优酷(官源)","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片"]},
-{"key":"youku","name":"👑PPTV(官源)","type":0,"api":"https://caiji.nxflv.com/api.php/provide/vod/?from=pptv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"youku","name":"👑搜狐(官源)","type":0,"api":"https://caiji.nxflv.com/api.php/provide/vod/?from=sohu","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"youku","name":"👑乐视(官源)","type":0,"api":"https://caiji.nxflv.com/api.php/provide/vod/?from=letv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"youku","name":"👑西瓜(官源)","type":0,"api":"https://caiji.nxflv.com/api.php/provide/vod/?from=xigua","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"pptv","name":"👑PPTV(官源)","type":0,"api":"https://caiji.nxflv.com/api.php/provide/vod/?from=pptv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"sohu","name":"👑搜狐(官源)","type":0,"api":"https://caiji.nxflv.com/api.php/provide/vod/?from=sohu","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"letv","name":"👑乐视(官源)","type":0,"api":"https://caiji.nxflv.com/api.php/provide/vod/?from=letv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"xigua","name":"👑西瓜(官源)","type":0,"api":"https://caiji.nxflv.com/api.php/provide/vod/?from=xigua","searchable":1,"quickSearch":1,"filterable":1},
 #
 #爬蟲片源
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -102,7 +102,7 @@
 #
 #XB片源
 {"key":"csp_xBPQ_诺讯影视","name":"🦐诺讯影视(Js)","type":3,"api":"https://caiji.nxflv.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_诺讯影视","name":"🦐诺讯影视(XML)","type":3,"api":"https://caiji.nxflv.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_诺讯影视","name":"🦐诺讯影视(XML)","type":3,"api":"https://caiji.nxflv.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_xBPQ_诺讯影视","name":"🦐诺讯影视(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/61832/%E8%AF%BA%E8%AE%AF%E5%BD%B1%E8%A7%86%28xBPQ%29.json?sign=wIeHY0ecLWBM8KDJXhgrJo_j044uEzz2z6IZtCeR00I%3D%3A0"},
 //{"key":"csp_XBiu诺讯影视","name":"🦐诺讯影视(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.nunxun.com/index.php/vod/show/by/time/id/{cateId}/page/{catePg}.html"},
 //{"key":"csp_biubiu_voflix","name":"🌀voflix(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/MaooXB2/voflix.json"},
