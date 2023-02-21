@@ -73,24 +73,24 @@
       "name": "台視"
     },
     {
-      "url": "rtmp://59.124.75.138/sat/tv091",
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv040?set=4&ch=4",
       "name": "中視"
     },
     {
-      "url": "rtmp://59.124.75.138/sat/tv111",
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv041?set=4&ch=6",
       "name": "華視"
     },
     {
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2446",
+      "url": "",
       "name": "動物星球"
     },
     {
-      "url": "http://125.227.210.55:15714/VideoInput/play.ts",
-      "name": "三立台灣台(暫無)"
+      "url": "",
+      "name": "三立台灣台"
     },
     {
-      "url": "http://59.125.101.187:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8",
-      "name": "三立都會台(暫無)"
+      "url": "",
+      "name": "三立都會台"
     },
     {
       "url": "https://youtu.be/4Uc00FPs27M",
@@ -122,7 +122,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8",
-      "name": "YOYO TV 直播(暫無)"
+      "name": "YOYO TV 直播"
     },
     {
       "url": "https://youtu.be/JJqXeRFsLjE",
@@ -133,7 +133,7 @@
       "name": "4K Animal World"
     },
     {
-      "url": "https://youtube.com/live/ZR-34cglqzQ?feature=shares",
+      "url": "https://youtu.be/WligwFJbNLU",
       "name": "Animals Of The World 4K"
     },
     {
@@ -141,7 +141,7 @@
       "name": "Collection of wild animals 4K"
     },
     {
-      "url": "https://youtube.com/live/EkbMp6ONzcU?feature=shares",
+      "url": "https://youtu.be/EkbMp6ONzcU",
       "name": "Amazing Wildlife of The World 4K"
     },
     {
