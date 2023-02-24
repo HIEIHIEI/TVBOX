@@ -4,7 +4,7 @@
 
 "wallpaper":"https://tool.weetai.cn/api",
 
-"spider":"http://w.g9.pub:66/381203888/Jar/zy.jar;md5; E80798750ECA57470F29D1942BCE39BB",
+"spider":"./zy.jar",
 
 "sites":[
 {"key":"douban","name":"🐼豆瓣荐片┃t4首页","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":0,"quickSearch":0,"filterable":0},
