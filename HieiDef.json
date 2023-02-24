@@ -3,8 +3,7 @@
 "lives":[
 {"name":"直播源","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt"},   
 //{"group":"redirect","channels":[{"name":"直播源","urls":["proxy://do=live&type=txt&ext=https://ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt"]}]},
-{"name":"直播源2","type":1,"url":"https://agit.ai/jyj/c120487/raw/branch/main/20230116.txt"}
-],
+{"name":"直播源2","type":1,"url":"https://agit.ai/jyj/c120487/raw/branch/main/20230116.txt"}],
 //{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vY2hlbmd4dWVsaTgxODkxMy9tYW9UVi9tYWluL2xpdmUlMjAoMSkudHh0"]}]}],
 
 "wallpaper":"https://tool.weetai.cn/api",
