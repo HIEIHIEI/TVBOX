@@ -9,17 +9,19 @@
     {
       "name": "直播源",
       "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt"
     },    
     {
       "name": "直播源2",
       "type": 1,
-      "url": "https://agit.ai/jyj/c120487/raw/branch/main/20230116.txt",
+      "url": "https://agit.ai/jyj/c120487/raw/branch/main/20230116.txt"
     },
     {
       "name": "台灣",
       "type": 0,
-      "url": "https://agit.ai/jyj/c120487/raw/branch/main/20230116.txt",
+      "url": "https://raw.githubusercontent.com/sqspot/tac/main/live.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.jar"
     },
     {
       "name": "直播1",
