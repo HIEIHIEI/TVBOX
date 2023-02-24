@@ -73,11 +73,11 @@
       "name": "台視"
     },
     {
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv040?set=4&ch=4",
+      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8",
       "name": "中視"
     },
     {
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv041?set=4&ch=6",
+      "url": "http://218.32.47.179:18503/.m3u8",
       "name": "華視"
     },
     {
