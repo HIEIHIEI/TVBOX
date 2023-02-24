@@ -11,7 +11,6 @@
 ],
 //{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vY2hlbmd4dWVsaTgxODkxMy9tYW9UVi9tYWluL2xpdmUlMjAoMSkudHh0"]}]}],
 
-
 "spider":"./panda1123.jar",
 //"spider":"clan://download/07061553.jar", //
 //"spider":"clan://download/666.json", //
