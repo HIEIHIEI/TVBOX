@@ -77,7 +77,7 @@
       "name": "中視"
     },
     {
-      "url": "http://218.32.47.179:18503/.m3u8",
+      "url": "",
       "name": "華視"
     },
     {
@@ -117,7 +117,7 @@
       "name": "東森財經"
     },
     {
-      "url": "https://youtu.be/ni1CxDStx0Y",
+      "url": "https://youtu.be/TRrtHZ09RQo",
       "name": "小猪佩奇 中文直播頻道"
     },
     {
