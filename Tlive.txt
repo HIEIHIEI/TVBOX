@@ -225,9 +225,9 @@ Sportv2,http://23.237.10.66:16180?$1280x720
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 TV8,http://23.237.10.66:16406/
 足球SUKAN,http://23.237.10.66:16476/
-東森購物1台,https://www.youtube.com/embed/ViJ3XiN6Q3M
-東森購物2台,https://www.youtube.com/embed/_Vlzn9qAHD4
-東森購物3台,https://www.youtube.com/embed/Z50JFuNgvB0
-東森購物5台,https://www.youtube.com/embed/u0NYyH3ZesE
-MOMO購物1台,https://www.youtube.com/embed/_pZQ1Lk0xMA
-MOMO購物2台,https://www.youtube.com/embed/xbNWkUyxQGM
+東森購物1台,https://www.youtube.com/embed/ViJ3XiN6Q3M?autoplay=1
+東森購物2台,https://www.youtube.com/embed/_Vlzn9qAHD4?autoplay=1
+東森購物3台,https://www.youtube.com/embed/Z50JFuNgvB0?autoplay=1
+東森購物5台,https://www.youtube.com/embed/u0NYyH3ZesE?autoplay=1
+MOMO購物1台,https://www.youtube.com/embed/_pZQ1Lk0xMA?autoplay=1
+MOMO購物2台,https://www.youtube.com/embed/xbNWkUyxQGM?autoplay=1
