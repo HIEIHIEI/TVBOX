@@ -240,8 +240,8 @@ jobs:
     - name : Upload artifact
       uses: actions/upload-artifact@v3
       with:
-        name: ytblive
-        path: ${{ github.workspace }}
+        name: my-artifact
+        path: path/to/artifact/ # or path/to/artifact
     - name: Git push assets to "ytblive" branch
       run: |
         git init
