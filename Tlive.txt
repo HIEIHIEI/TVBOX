@@ -76,14 +76,15 @@ TVBS歡樂台,rtmp://119.81.124.89/sat/tv421
 八大第一台,http://60.251.33.252:18539/.m3u8
 八大第一台,http://www.yshmzmc.top/gtjm.php?id=live1043
 八大戲劇台,http://220.134.196.147:9543/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
+東森購物1台,http://www.336699.live:1935/blocksix/4gtv-live046.stream/chunklist.m3u8
+東森購物3台,http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
+星衛娛樂,http://23.237.10.66:16359
+美國中文,https://jpts.sinovision.net/livestream.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 翡翠台,http://123.51.230.108:18551/.m3u8
-星衛娛樂,http://23.237.10.66:16359
-美國中文,https://jpts.sinovision.net/livestream.m3u8
 lifetime,http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
 live互動英語,http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
-東森購物,http://www.336699.live:1935/blocksix/4gtv-live046.stream/chunklist.m3u8
 寵物tv,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
 全球trekker,http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklist.m3u8
 ELTA生活旅遊,http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
@@ -203,6 +204,12 @@ GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 獅子家庭,https://ytm2.yuanhsing.cf/LionFamily.m3u8
 
 港台測試1,#genre#
+東森購物1台,https://github.com/HIEIHIEI/TVBOX/raw/main/ytblive/sensengo47.m3u8
+東森購物2台,https://github.com/HIEIHIEI/TVBOX/raw/main/ytblive/sensengo34.m3u8
+東森購物3台,https://github.com/HIEIHIEI/TVBOX/raw/main/ytblive/sensengo46.m3u8
+東森購物5台,https://github.com/HIEIHIEI/TVBOX/raw/main/ytblive/sensengo60.m3u8
+MOMO購物1台,https://github.com/HIEIHIEI/TVBOX/raw/main/ytblive/momoshop1.m3u8
+MOMO購物2台,https://github.com/HIEIHIEI/TVBOX/raw/main/ytblive/momoshop2.m3u8
 民視,http://23.237.10.66:16334?$1280x720
 民視K,http://107.151.203.111:2209/135/us50.php?id=msk
 台視K,http://107.151.203.111:2209/135/us50.php?id=tsk
@@ -225,9 +232,3 @@ Sportv2,http://23.237.10.66:16180?$1280x720
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 TV8,http://23.237.10.66:16406/
 足球SUKAN,http://23.237.10.66:16476/
-東森購物1台,https://github.com/HIEIHIEI/TVBOX/raw/main/ytblive/sensengo47.m3u8
-東森購物2台,https://github.com/HIEIHIEI/TVBOX/raw/main/ytblive/sensengo34.m3u8
-東森購物3台,https://github.com/HIEIHIEI/TVBOX/raw/main/ytblive/sensengo46.m3u8
-東森購物5台,https://github.com/HIEIHIEI/TVBOX/raw/main/ytblive/sensengo60.m3u8
-MOMO購物1台,https://github.com/HIEIHIEI/TVBOX/raw/main/ytblive/momoshop1.m3u8
-MOMO購物2台,https://github.com/HIEIHIEI/TVBOX/raw/main/ytblive/momoshop2.m3u8
