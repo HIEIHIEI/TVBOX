@@ -240,7 +240,7 @@ jobs:
     - name : Upload artifact
       uses: actions/upload-artifact@V3
       with:
-        name: ytblive m3u8
+        name: ytblive
         path: ./ytblive
     - name: Git push assets to "ytblive" branch
       run: |
