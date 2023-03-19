@@ -64,16 +64,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(yt-dlp -g https://www.youtube.com/c/三立LIVE新聞/live)
-        EOL
-    - name: Get channeltv.m3u8
-      run: |
-        touch ./channeltv.m3u8
-        sudo cat >./channeltv.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(yt-dlp -g https://www.youtube.com/c/ChannelsTelevision/live)
+        $(yt-dlp -g https://www.youtube.com/watch?v=jlldIiGA5bU)
         EOL
     - name: Get setinews.m3u8
       run: |
@@ -82,7 +73,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(yt-dlp -g https://www.youtube.com/c/setmoney159/live)
+        $(yt-dlp -g https://www.youtube.com/live/CKjSm5ZeehE?feature=share)
         EOL
     - name: Get ebcnews.m3u8
       run: |
@@ -120,24 +111,6 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
         $(yt-dlp -g https://www.youtube.com/user/57etfn/live)
         EOL
-    - name: Get cctv4.m3u8
-      run: |
-        touch ./cctv4.m3u8
-        sudo cat >./cctv4.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(yt-dlp -g https://www.youtube.com/user/ChineseInternatioify/live)
-        EOL
-    - name: Get eftv.m3u8
-      run: |
-        touch ./eftv.m3u8
-        sudo cat >./eftv.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(yt-dlp -g https://www.youtube.com/user/EFTV01/live)
-        EOL
     - name: Get mnews.m3u8
       run: |
         touch ./mnews.m3u8
@@ -147,7 +120,6 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
         $(yt-dlp -g https://www.youtube.com/watch?v=5n0y6b0Q25o)
         EOL
-   
     - name: Get daaione.m3u8
       run: |
         touch ./daaione.m3u8
@@ -165,23 +137,6 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
         $(yt-dlp -g https://www.youtube.com/watch?v=DTNkEm6jaqQ)
-        EOL
-    - name: Get phoenixnews.m3u8
-      run: |
-        touch ./phoenixnews.m3u8
-        sudo cat >./phoenixnews.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(yt-dlp -g https://www.youtube.com/watch?v=dmDg7NfUoSw)
-    - name: Get sdtv.m3u8
-      run: |
-        touch ./sdtv.m3u8
-        sudo cat >./sdtv.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=540000
-        $(yt-dlp -g https://www.youtube.com/channel/UCrVBXIxpYnjTk4ezn9F-fug/live)
         EOL
     - name: Get ctsshow.m3u8
       run: |
@@ -228,77 +183,59 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
         $(yt-dlp -g https://www.youtube.com/c/國會頻道/live)
         EOL
-    - name: Get abcaustralia.m3u8
+    - name: Get sensengo47.m3u8
       run: |
-        touch ./abcaustralia.m3u8
-        sudo cat >./abcaustralia.m3u8 <<EOL
+        touch ./sensengo47.m3u8
+        sudo cat >./sensengo47.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(yt-dlp -g https://www.youtube.com/user/NewsOnABC/live)
+        $(yt-dlp -g https://www.youtube.com/watch?v=ViJ3XiN6Q3M)
         EOL
-    - name: Get abcnews.m3u8
+    - name: Get sensengo34.m3u8
       run: |
-        touch ./abcnews.m3u8
-        sudo cat >./abcnews.m3u8 <<EOL
+        touch ./sensengo34.m3u8
+        sudo cat >./sensengo34.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(yt-dlp -g https://www.youtube.com/user/ABCNews/live)
+        $(yt-dlp -g https://www.youtube.com/watch?v=_Vlzn9qAHD4)
         EOL
-    - name: Get abc7news
+    - name: Get sensengo46
       run: |
-        touch ./abc7news.m3u8
-        sudo cat >./abc7news.m3u8 <<EOL
+        touch ./sensengo46.m3u8
+        sudo cat >./sensengo46.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(yt-dlp -g https://www.youtube.com/channel/UCq9e_hCv2jvgck8WowW1NXg/live)
+        $(yt-dlp -g https://www.youtube.com/watch?v=Z50JFuNgvB0)
         EOL
-    - name: Get sbn.m3u8
+    - name: Get sensengo60.m3u8
       run: |
-        touch ./sbn.m3u8
-        sudo cat >./sbn.m3u8 <<EOL
+        touch ./sensengo60.m3u8
+        sudo cat >./sensengo60.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(yt-dlp -g https://www.youtube.com/channel/UCj82QbSA3Dz9ez3W8q-_5bw/live)
+        $(yt-dlp -g https://www.youtube.com/watch?v=u0NYyH3ZesE)
         EOL
-    - name: Get africanews.m3u8
+    - name: Get momoshop1.m3u8
       run: |
-        touch ./africanews.m3u8
-        sudo cat >./africanews.m3u8 <<EOL
+        touch ./momoshop1.m3u8
+        sudo cat >./momoshop1.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(yt-dlp -g https://www.youtube.com/c/africanews/live)
+        $(yt-dlp -g https://www.youtube.com/watch?v=_pZQ1Lk0xMA)
         EOL
-    - name: Get arirangtv.m3u8
+    - name: Get momoshop2.m3u8
       run: |
-        touch ./arirangtv.m3u8
-        sudo cat >./arirangtv.m3u8 <<EOL
+        touch ./momoshop2.m3u8
+        sudo cat >./momoshop2.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(yt-dlp -g https://www.youtube.com/user/arirang/live)
-        EOL
-    - name: Get cna.m3u8
-      run: |
-        touch ./cna.m3u8
-        sudo cat >./cna.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(yt-dlp -g https://www.youtube.com/user/channelnewsasia/live)
-        EOL
-    - name: Get bernamanews.m3u8
-      run: |
-        touch ./bernamanews.m3u8
-        sudo cat >./bernamanews.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(yt-dlp -g https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live)
+        $(yt-dlp -g https://www.youtube.com/watch?v=xbNWkUyxQGM)
         EOL
     - name: Get annnews.m3u8
       run: |
@@ -317,15 +254,6 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
         $(yt-dlp -g https://www.youtube.com/v/H3D90-436C4)
-        EOL
-    - name: Get bloomberg.m3u8
-      run: |
-        touch ./bloomberg.m3u8
-        sudo cat >./bloomberg.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(yt-dlp -g https://www.youtube.com/user/Bloomberg/live)
         EOL
     - name: Get nbcnews.m3u8
       run: |
