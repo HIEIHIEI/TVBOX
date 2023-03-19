@@ -76,8 +76,8 @@ TVBS歡樂台,rtmp://119.81.124.89/sat/tv421
 八大第一台,http://60.251.33.252:18539/.m3u8
 八大第一台,http://www.yshmzmc.top/gtjm.php?id=live1043
 八大戲劇台,http://220.134.196.147:9543/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
-東森購物1台,http://www.336699.live:1935/blocksix/4gtv-live046.stream/chunklist.m3u8
-東森購物3台,http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
+東森購物1台,http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
+東森購物3台,http://www.336699.live:1935/blocksix/4gtv-live046.stream/chunklist.m3u8
 星衛娛樂,http://23.237.10.66:16359
 美國中文,https://jpts.sinovision.net/livestream.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
