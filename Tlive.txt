@@ -225,9 +225,9 @@ Sportv2,http://23.237.10.66:16180?$1280x720
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 TV8,http://23.237.10.66:16406/
 足球SUKAN,http://23.237.10.66:16476/
-東森購物1台,./ytblive/sensengo47.m3u8
-東森購物2台,./ytblive/sensengo34.m3u8
-東森購物3台,./ytblive/sensengo46.m3u8
-東森購物5台,./ytblive/sensengo60.m3u8
-MOMO購物1台,./ytblive/momoshop1.m3u8
-MOMO購物2台,./ytblive/momoshop2.m3u8
+東森購物1台,https://github.com/HIEIHIEI/TVBOX/raw/main/ytblive/sensengo47.m3u8
+東森購物2台,https://github.com/HIEIHIEI/TVBOX/raw/main/ytblive/sensengo34.m3u8
+東森購物3台,https://github.com/HIEIHIEI/TVBOX/raw/main/ytblive/sensengo46.m3u8
+東森購物5台,https://github.com/HIEIHIEI/TVBOX/raw/main/ytblive/sensengo60.m3u8
+MOMO購物1台,https://github.com/HIEIHIEI/TVBOX/raw/main/ytblive/momoshop1.m3u8
+MOMO購物2台,https://github.com/HIEIHIEI/TVBOX/raw/main/ytblive/momoshop2.m3u8
