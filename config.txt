@@ -117,7 +117,7 @@
       "name": "東森財經"
     },
     {
-      "url": "https://youtu.be/TRrtHZ09RQo",
+      "url": "https://www.youtube.com/live/hu9j3gHLCX4?feature=share",
       "name": "小猪佩奇 中文直播頻道"
     },
     {
@@ -133,15 +133,15 @@
       "name": "4K Animal World"
     },
     {
-      "url": "https://youtu.be/WligwFJbNLU",
+      "url": "https://www.youtube.com/live/-wys_W4fN5o?feature=share",
       "name": "Animals Of The World 4K"
     },
     {
-      "url": "https://youtu.be/1f1wE-z4cTw",
+      "url": "https://www.youtube.com/live/83iuZBEVVYs?feature=share",
       "name": "Collection of wild animals 4K"
     },
     {
-      "url": "https://youtu.be/EkbMp6ONzcU",
+      "url": "https://www.youtube.com/live/JYOAiV-oWbs?feature=share",
       "name": "Amazing Wildlife of The World 4K"
     },
     {
