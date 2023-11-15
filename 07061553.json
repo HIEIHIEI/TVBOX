@@ -31,6 +31,7 @@
 //{"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/61730/alist_4.json?sign=kXqVyfQzRnYJcFB5nri3SEHAiMsJRxoh14dS7-XeuzI%3D%3A0"},
 //{"key":"Alips","name":"🔍Alist盘搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/Alist.json"},
 {"key":"csp_bendi","name":"📂本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
+{"key":"K歌库","name":"🎤K歌【选[音轨]切换原音/伴奏】","type":1,"api":"https://mv.clem7.repl.co/mv/vod?maxCount=200","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 //{"key":"csp_Smdyy","name":"🐴神马影视","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lezhu","name":"🐷乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_fant","name":"🍙饭团影视","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
