@@ -11,13 +11,13 @@
 ],
 //{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vY2hlbmd4dWVsaTgxODkxMy9tYW9UVi9tYWluL2xpdmUlMjAoMSkudHh0"]}]}],
 
-"spider":"./panda1123.jar",
-//"spider":"./07061553.jar", //
-//"spider":"./666.json", //
-//"spider":"./666.png", //
-//"spider":"./888.png", //
-//"spider":"./999.png", //
-//"spider":"./Mao0820.jar", //
+"spider":"panda1123.jar",
+//"spider":"07061553.jar", //
+//"spider":"666.json", //
+//"spider":"666.png", //
+//"spider":"888.png", //
+//"spider":"999.png", //
+//"spider":"Mao0820.jar", //
 
 "sites":[
 {"key":"csp_trj","name":"🛫唐人街影院(海外推荐)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
@@ -27,7 +27,7 @@
 {"key":"If101","name":"✈️If101(海外推荐)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"haiwaicaiji","name":"🍁海外看影视(海外推荐)","type":0,"api":"https://haiwaikan.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"LIBVIO","name":"✈️LIBVIO(海外推荐)","type":3,"api":"csp_LIBVIO","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Alist","name":"🗂Alist网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"./Alist.json"},
+{"key":"csp_Alist","name":"🗂Alist网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"Alist.json"},
 //{"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/61730/alist_4.json?sign=kXqVyfQzRnYJcFB5nri3SEHAiMsJRxoh14dS7-XeuzI%3D%3A0"},
 //{"key":"Alips","name":"🔍Alist盘搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/Alist.json"},
 {"key":"csp_bendi","name":"📂本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
@@ -52,15 +52,15 @@
 {"key":"Yanet","name":"🦆鴨奈飛(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349","jar":"https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0"},
 {"key":"csp_DiDuan","name":"🎬低端影视(SP)","api":"csp_Ddrk","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mjxq_spider","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_CZSPP","name":"🚬厂长资源(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1,"jar":"./07061553.jar"},
+{"key":"csp_CZSPP","name":"🚬厂长资源(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1,"jar":"07061553.jar"},
 {"key":"csp_Cokemv","name":"📺Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"🍷两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🐼Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_BBB","name":"🅱️哔滴影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_Kmys","name":"🐞酷猫影视","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./07061553.jar"},
+//{"key":"csp_Kmys","name":"🐞酷猫影视","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"07061553.jar"},
 //{"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"spider_IKan","name":"✨爱看(🐞)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./07061553.jar"},
-//{"key":"csp_DY1990","name":"💙90(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1,"jar":"./07061553.jar"},
+//{"key":"spider_IKan","name":"✨爱看(🐞)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"07061553.jar"},
+//{"key":"csp_DY1990","name":"💙90(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1,"jar":"07061553.jar"},
 {"key":"csp_appys_美剧虫","name":"🐞美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.meijuchong.cc/api.php/v1.vod"},
 #
 #XB片源
@@ -92,7 +92,7 @@
 {"key":"csp_XBiu小白影音","name":"🇹🇼小白影音(XB)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.maxbaytw.com/type/{cateId}------addtime-{catePg}"},
 //{"key":"csp_XBiu歐飛","name":"🇹🇼歐飛(XB)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"www.ofiii.com/section/{cateId}"},
 //{"key":"csp_XBiu星視界","name":"🇹🇼星視界(XB)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.histar.tv/{cateType}/all/all/all"},
-//{"key":"csp_xbpq_lgyy","name":"🌀蓝光影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://6446.tv/vodshow/{cateId}--time------{catePg}---.html","jar":"./panda.jar"},
+//{"key":"csp_xbpq_lgyy","name":"🌀蓝光影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://6446.tv/vodshow/{cateId}--time------{catePg}---.html","jar":"panda.jar"},
 {"key":"csp_xb_lgyys","name":"🌀蓝光影院VIP(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip/vodshow/{cateId}--time------{catePg}---.html"},
 //{"key":"csp_XBiubiubiubiu_蓝光影视","name":"💿蓝光影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/蓝光影院.json"},
 //{"key":"csp_XBiu蓝光影视","name":"💿蓝光影视CC(XB)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.cc/vodshow/{cateId}--time------{catePg}---.html"},
@@ -708,7 +708,7 @@
 #
 #其他及待測試片源
 {"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_AliPanSou","name":"🐱喵狸盘搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"jar":"./07061553.jar"},
+{"key":"csp_AliPanSou","name":"🐱喵狸盘搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"jar":"07061553.jar"},
 #
 {"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"}
 ],
