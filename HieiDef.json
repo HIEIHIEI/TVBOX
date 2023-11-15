@@ -8,7 +8,7 @@
 
 "wallpaper":"https://tool.weetai.cn/api",
 
-"spider":"Jar/zy.jar",
+"spider":"./zy.jar",
 
 "sites":[
 
@@ -31,7 +31,7 @@
 {"key":"csp_XBiu小白影音","name":"🇹🇼小白影音(XB)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.maxbaytw.com/type/{cateId}------addtime-{catePg}"},
 //{"key":"csp_XBiu歐飛","name":"🇹🇼歐飛(XB)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"www.ofiii.com/section/{cateId}"},
 //{"key":"csp_XBiu星視界","name":"🇹🇼星視界(XB)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.histar.tv/{cateType}/all/all/all"},
-//{"key":"csp_xbpq_lgyy","name":"🌀蓝光影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://6446.tv/vodshow/{cateId}--time------{catePg}---.html","jar":"panda.jar"},
+//{"key":"csp_xbpq_lgyy","name":"🌀蓝光影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://6446.tv/vodshow/{cateId}--time------{catePg}---.html","jar":"./panda1123.jar"},
 {"key":"csp_xb_lgyys","name":"🌀蓝光影院VIP(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip/vodshow/{cateId}--time------{catePg}---.html"},
 //{"key":"csp_XBiubiubiubiu_蓝光影视","name":"💿蓝光影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/蓝光影院.json"},
 //{"key":"csp_XBiu蓝光影视","name":"💿蓝光影视CC(XB)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.cc/vodshow/{cateId}--time------{catePg}---.html"},
