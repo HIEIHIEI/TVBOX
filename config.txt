@@ -53,7 +53,7 @@
       "name": "民視新聞"
     },
     {
-      "url": "https://youtube.com/live/jlldIiGA5bU?feature=shares",
+      "url": "https://youtu.be/oZdzzvxTfUY",
       "name": "三立新聞"
     },
     {
@@ -61,11 +61,11 @@
       "name": "三立 iNEWS 新聞"
     },
     {
-      "url": "https://lihi1.cc/EVpiW",
+      "url": "https://youtu.be/6IquAgfvYmc",
       "name": "寰宇新聞"
     },
     {
-      "url": "http://23.237.10.66:16334",
+      "url": "",
       "name": "民視"
     },
     {
@@ -73,7 +73,7 @@
       "name": "台視"
     },
     {
-      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8",
+      "url": "",
       "name": "中視"
     },
     {
@@ -93,7 +93,7 @@
       "name": "三立都會台"
     },
     {
-      "url": "https://youtu.be/4Uc00FPs27M",
+      "url": "https://youtu.be/C6gYqSHLRw4",
       "name": "公共電視"
     },
     {
@@ -109,7 +109,7 @@
       "name": "大愛一臺全球直播"
     },
     {
-      "url": "https://youtu.be/oPx1u9WQrWg",
+      "url": "https://youtu.be/s2waUruqze4",
       "name": "中天亞洲台"
     },
     {
@@ -117,36 +117,44 @@
       "name": "東森財經"
     },
     {
-      "url": "https://www.youtube.com/live/hu9j3gHLCX4?feature=share",
-      "name": "小猪佩奇 中文直播頻道"
+      "url": "https://youtu.be/z5jwjLX-FDI",
+      "name": "Tom the Tow Truck 兒童頻道"
     },
     {
-      "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8",
-      "name": "YOYO TV 直播"
+      "url": "https://youtu.be/keytl9VwcBA",
+      "name": "朱妮托尼 兒歌頻道"
     },
     {
-      "url": "https://youtu.be/JJqXeRFsLjE",
-      "name": "KC Zoo Penguin Cam 4K"
+      "url": "https://youtu.be/bdh82KuI8l8",
+      "name": "超級汽車 兒歌頻道"
+    },
+    {
+      "url": "https://youtu.be/GyAfMkzujdU8",
+      "name": "汽車城 兒歌頻道"
+    },
+    {
+      "url": "https://youtu.be/7xU3yXHVrVg",
+      "name": "貝樂虎 兒歌童謠頻道"
+    },
+    {
+      "url": "https://youtu.be/frnOaadNetI",
+      "name": "YOYO TV"
     },
     {
       "url": "https://youtu.be/rkPCR6Ujtak",
       "name": "4K Animal World"
     },
     {
-      "url": "https://www.youtube.com/live/-wys_W4fN5o?feature=share",
-      "name": "Animals Of The World 4K"
-    },
-    {
       "url": "https://www.youtube.com/live/83iuZBEVVYs?feature=share",
-      "name": "Collection of wild animals 4K"
+      "name": "4K Animal World 2"
     },
     {
-      "url": "https://www.youtube.com/live/JYOAiV-oWbs?feature=share",
-      "name": "Amazing Wildlife of The World 4K"
+      "url": "https://youtu.be/PR5pcXYYe0w",
+      "name": "4K Animal World 3"
     },
     {
-      "url": "https://youtu.be/Du8OyyaOgN4",
-      "name": "Under Red Sea 4K - Incredible Underwater World"
+      "url": "https://youtu.be/cvjo2r50ax4",
+      "name": "4K Animal World 4"
     }
   ]
 }
