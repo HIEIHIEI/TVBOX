@@ -127,6 +127,7 @@
 //{"key":"csp_XBiu星河影院","name":"✈星河影院(XB)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xinghehd.com/index.php/vod/show/by/time/id/{cateId}/page/{catePg}.html"},
 //{"key":"csp_XBiu量子影视","name":"✈量子影视(XB)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.lzizy9.com/index.php/vod/show/by/time/id/{cateId}/page/{catePg}.html"},
 {"key":"csp_XBiuA8ys","name":"✈A8影視(XB)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://a8ys.cc/vodshow/--------{catePg}---/id/{cateId}.html"},
+{"key":"csp_XBiuGuoWys","name":"✈國王影視(XB)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://guowys.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 {"key":"csp_XBiu在线之家","name":"🏠在线之家(XB)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://zxzj.vip/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_biubiu_小宝影院","name":"✈小宝影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/小宝影院.json"},
 {"key":"csp_biubiu_欧乐影院","name":"✈欧乐影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/欧乐影院.json"},
