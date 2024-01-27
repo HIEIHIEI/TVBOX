@@ -129,22 +129,6 @@
       "name": "4GTV兒童卡通台"
     },
     {
-      "url": "https://www.4gtv.tv/channel/4gtv-live047?set=4&ch=173",
-      "name": "4GTV東森購物一台"
-    },
-    {
-      "url": "https://www.4gtv.tv/channel/4gtv-live046?set=4&ch=174",
-      "name": "4GTV東森購物二台"
-    },
-    {
-      "url": "https://www.4gtv.tv/channel/4gtv-live048?set=4&ch=287",
-      "name": "4GTV東森購物三台"
-    },
-    {
-      "url": "https://www.4gtv.tv/channel/4gtv-live049?set=4&ch=286",
-      "name": "4GTV東森購物四台"
-    },
-    {
       "url": "https://youtu.be/rkPCR6Ujtak",
       "name": "4K Animal World"
     },
@@ -159,6 +143,22 @@
     {
       "url": "https://youtu.be/cvjo2r50ax4",
       "name": "4K Animal World 4"
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-live047?set=4&ch=173",
+      "name": "4GTV東森購物一台"
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-live048?set=4&ch=287",
+      "name": "4GTV東森購物二台"
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-live046?set=4&ch=174",
+      "name": "4GTV東森購物三台"
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-live049?set=4&ch=286",
+      "name": "4GTV東森購物五台"
     }
   ]
 }
