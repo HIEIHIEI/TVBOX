@@ -89,8 +89,8 @@
       "name": "動物星球"
     },
     {
-      "url": "",
-      "name": "三立台灣台"
+      "url": "https://www.histar.tv/live/settv-taiwan",
+      "name": "星世界 三立台灣台"
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-live207?set=4&ch=169",
@@ -121,6 +121,10 @@
       "name": "東森財經"
     },
     {
+      "url": "https://www.4gtv.tv/channel/4gtv-live107?set=4&ch=231",
+      "name": "4GTV MOMO親子台"
+    },
+    {
       "url": "https://www.4gtv.tv/channel/4gtv-live022?set=4&ch=202",
       "name": "4GTV經典卡通台"
     },
@@ -131,6 +135,14 @@
     {
       "url": "https://www.4gtv.tv/channel/4gtv-live009?set=4&ch=269",
       "name": "4GTV兒童卡通台"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/litv-longturn01",
+      "name": "ofiii龍華卡通台"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/ofiii22",
+      "name": "ofiii哆啦A夢台"
     },
     {
       "url": "https://youtu.be/rkPCR6Ujtak",
