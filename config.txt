@@ -29,7 +29,7 @@
       "name": "TVBS新聞"
     },
     {
-      "url": "https://today.line.me/tw/v2/article/grrvVZ",
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv152?set=4&ch=292",
       "name": "東森新聞"
     },
     {
@@ -145,19 +145,19 @@
       "name": "ofiii哆啦A夢台"
     },
     {
-      "url": "https://youtu.be/rkPCR6Ujtak",
+      "url": "https://www.youtube.com/live/bKLftRxcy3k?feature=shared",
       "name": "4K Animal World"
     },
     {
-      "url": "https://www.youtube.com/live/83iuZBEVVYs?feature=share",
+      "url": "https://www.youtube.com/live/pRsDb9TBejA?feature=shared",
       "name": "4K Animal World 2"
     },
     {
-      "url": "https://youtu.be/PR5pcXYYe0w",
+      "url": "https://www.youtube.com/live/N7oOyWgPYwM?feature=shared",
       "name": "4K Animal World 3"
     },
     {
-      "url": "https://youtu.be/cvjo2r50ax4",
+      "url": "https://www.youtube.com/live/zWxTFLkHZCw?feature=shared",
       "name": "4K Animal World 4"
     },
     {
