@@ -1,5 +1,6 @@
 GA測試1,#genre#
-SWITCH STREAMING,rtsp://192.168.68.105:6666
+WebCastClient,http://192.168.68.150:30001/web-receiver/index.html
+Switch Streaming,rtsp://192.168.68.105:6666
 thai3,http://198.16.100.90:8278/tpbs_pat/playlist.m3u8?tid=MF9F9580758695807586&ct=19249&tsum=e2992a8627dbfd1cb4ac975efe0a195a
 itv 2,http://198.16.100.90:8278/itv2_antik/playlist.m3u8?tid=ME1E6151053761510537&ct=19249&tsum=1ef927017460bcb40a504bbebc9eecb8
 iNews 新聞台,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
