@@ -29,7 +29,7 @@
       "name": "TVBS新聞"
     },
     {
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv152?set=4&ch=292",
+      "url": "https://www.histar.tv/live/ebc-news",
       "name": "東森新聞"
     },
     {
@@ -65,7 +65,7 @@
       "name": "寰宇新聞"
     },
     {
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3",
+      "url": "https://www.histar.tv/live/ftv",
       "name": "4GTV民視"
     },
     {
@@ -73,11 +73,11 @@
       "name": "4GTV台視"
     },
     {
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4",
+      "url": "https://www.histar.tv/live/ctv",
       "name": "4GTV中視"
     },
     {
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=6",
+      "url": "https://www.histar.tv/live/cts",
       "name": "4GTV華視"
     },
     {
