@@ -26,7 +26,7 @@
 //{"key":"泥巴","name":"👑泥視頻(海外推荐)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"If101","name":"✈️If101(海外推荐)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"haiwaicaiji","name":"🍁海外看影视(海外推荐)","type":0,"api":"https://haiwaikan.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "YoutubeCH","name": "😰YouTube自訂頻道","type": 3,"style":{ "type":"oval" },"api": "./Mud.js","ext": "./YouTube2.txt"},
+{"key": "YoutubeCH","name": "😰YouTube自訂頻道","type": 3,"style":{ "type":"oval" },"api": "./Mud.js","ext": "./YouTube.txt"},
 {"key":"直播转点播","name":"❤💻網路第四台txt格式","type":3,"style":{ "type":"oval" },"api":"./live2cms.js","ext":"./live2tv_sq.txt"},
 //{"key":"LIBVIO","name":"✈️LIBVIO(海外推荐)","type":3,"api":"csp_LIBVIO","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Alist","name":"🗂Alist网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"Alist.json"},
