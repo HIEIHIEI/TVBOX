@@ -1,10 +1,10 @@
 YouTube頻道,#genre#
-東森購物一台,https://youtu.be/ViJ3XiN6Q3M
-東森購物二台,https://youtu.be/_Vlzn9qAHD4
-東森購物三台,https://youtu.be/Z50JFuNgvB0
-東森購物五台,https://youtu.be/u0NYyH3ZesE
-MOMO購物一台,https://youtu.be/_pZQ1Lk0xMA
-MOMO購物二台,https://youtu.be/xbNWkUyxQG
+東森購物一台,https://www.youtube.com/watch?v=ViJ3XiN6Q3M
+東森購物二台,https://www.youtube.com/watch?v=_Vlzn9qAHD4
+東森購物三台,https://www.youtube.com/watch?v=Z50JFuNgvB0
+東森購物五台,https://www.youtube.com/watch?v=u0NYyH3ZesE
+MOMO購物一台,https://www.youtube.com/watch?v=_pZQ1Lk0xMA
+MOMO購物二台,https://www.youtube.com/watch?v=xbNWkUyxQG
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
@@ -21,8 +21,8 @@ EBC東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
 NBC NEW,https://www.youtube.com/watch?v=--ZdMGK9Hn0
 CCTV新聞,https://www.youtube.com/watch?v=bEZYrBMYNNg
-公共電視,https://youtu.be/C6gYqSHLRw4
-大愛一臺,https://youtu.be/oV_i3Hsl_zg
-大愛二臺,https://youtu.be/DTNkEm6jaqQ
-大愛一臺全球直播,https://youtu.be/MIqUplvSRWA
-中天亞洲台,https://youtu.be/s2waUruqze4
+公共電視,https://www.youtube.com/watch?v=C6gYqSHLRw4
+大愛一臺,https://www.youtube.com/watch?v=oV_i3Hsl_zg
+大愛二臺,https://www.youtube.com/watch?v=DTNkEm6jaqQ
+大愛一臺全球直播,https://www.youtube.com/watch?v=MIqUplvSRWA
+中天亞洲台,https://www.youtube.com/watch?v=s2waUruqze4
