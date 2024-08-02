@@ -1,20 +1,20 @@
 {
   "channelList": [
     {
-      "url": "https://www.4gtv.tv/channel/4gtv-live047?set=4&ch=173",
-      "name": "4GTV東森購物一台"
+      "url": "https://youtu.be/ViJ3XiN6Q3M",
+      "name": "東森購物一台"
     },
     {
-      "url": "https://www.4gtv.tv/channel/4gtv-live048?set=4&ch=287",
-      "name": "4GTV東森購物二台"
+      "url": "https://youtu.be/_Vlzn9qAHD4",
+      "name": "東森購物二台"
     },
     {
-      "url": "https://www.4gtv.tv/channel/4gtv-live046?set=4&ch=174",
-      "name": "4GTV東森購物三台"
+      "url": "https://youtu.be/Z50JFuNgvB0",
+      "name": "東森購物三台"
     },
     {
-      "url": "https://www.4gtv.tv/channel/4gtv-live049?set=4&ch=286",
-      "name": "4GTV東森購物五台"
+      "url": "https://youtu.be/u0NYyH3ZesE",
+      "name": "東森購物五台"
     },
     {
       "url": "https://youtu.be/_pZQ1Lk0xMA",
@@ -29,7 +29,7 @@
       "name": "TVBS新聞"
     },
     {
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv152?set=4&ch=292",
+      "url": "https://www.histar.tv/live/ebc-news",
       "name": "東森新聞"
     },
     {
@@ -65,7 +65,7 @@
       "name": "寰宇新聞"
     },
     {
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv002?set=4&ch=3",
+      "url": "https://www.histar.tv/live/ftv",
       "name": "4GTV民視"
     },
     {
@@ -73,11 +73,11 @@
       "name": "4GTV台視"
     },
     {
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv040?set=4&ch=4",
+      "url": "https://www.histar.tv/live/ctv",
       "name": "4GTV中視"
     },
     {
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv041?set=4&ch=6",
+      "url": "https://www.histar.tv/live/cts",
       "name": "4GTV華視"
     },
     {
@@ -161,20 +161,20 @@
       "name": "4K Animal World 4"
     },
     {
-      "url": "https://youtu.be/ViJ3XiN6Q3M",
-      "name": "東森購物一台"
+      "url": "https://www.4gtv.tv/channel/4gtv-live047?set=4&ch=173",
+      "name": "4GTV東森購物一台"
     },
     {
-      "url": "https://youtu.be/_Vlzn9qAHD4",
-      "name": "東森購物二台"
+      "url": "https://www.4gtv.tv/channel/4gtv-live048?set=4&ch=287",
+      "name": "4GTV東森購物二台"
     },
     {
-      "url": "https://youtu.be/Z50JFuNgvB0",
-      "name": "東森購物三台"
+      "url": "https://www.4gtv.tv/channel/4gtv-live046?set=4&ch=174",
+      "name": "4GTV東森購物三台"
     },
     {
-      "url": "https://youtu.be/u0NYyH3ZesE",
-      "name": "東森購物五台"
+      "url": "https://www.4gtv.tv/channel/4gtv-live049?set=4&ch=286",
+      "name": "4GTV東森購物五台"
     }
   ]
 }
