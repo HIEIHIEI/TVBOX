@@ -28,6 +28,8 @@
 {"key":"t9-6v","name":"磁力-6V(t9)","type":4,"api":"https://catbox.n13.club/t9/6v.php"},
 {"key":"t9-哔嘀","name":"磁力-哔嘀(t9)","type":4,"api":"https://catbox.n13.club/t9/bdys.php"},
 
+//{"key":"csp_XBiuAV","name":"🇯🇵AV(XB)","type": 3,"api":"csp_XBPQ","jar":"./xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.ggyy.me/vodtype/{cateId}.html","分类": "電視劇$2#電影$3#動漫$4#綜藝$1#兒童$5"}},
+
 //{"key":"csp_XBiu歐飛","name":"🇹🇼歐飛(XB)","type": 3,"api":"csp_XBPQ","jar":"./xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.ofiii.com/filter?topic={cateId}&copyright_year={year}&sort=created_at","分类": "電視劇$3#電影$4#動漫$6#綜藝$5#兒童$7"}},
 //{"key":"csp_XBiu星視界","name":"🇹🇼星視界(XB)","type": 3,"api":"csp_XBPQ","jar":"./xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.histar.tv/{cateId}/{year}/all/all","分类": "電視劇$drama#電影$movie#動漫$animation#綜藝$variety#體育$sports#電視頻道$live"}},
 //{"key":"泥巴","name":"👑泥視頻(海外推荐)","type":3,"api":"csp_XBPQ","jar":"./xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"class=\"d-jj-c\">&&</div>","简介":"video-info-item video-info-content vod_content\">&&</span>","分类url":"https://www.nivod.cc/filter.html?channel={cateId}&year={year}","分类": "電視劇$tv#電影$movie#動漫$anime#綜藝$show"}},
