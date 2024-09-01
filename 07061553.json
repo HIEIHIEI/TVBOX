@@ -18,14 +18,14 @@
 //"spider":"./Mao0820.jar", //
 
 "sites":[
-{"key":"t9-douban","name":"🔍豆瓣影視搜索(T9)","type":4,"api":"https://catbox.n13.club/t9/douban.php"},
+//{"key":"t9-douban","name":"🔍豆瓣影視搜索(T9)","type":4,"api":"https://catbox.n13.club/t9/douban.php"},
 {"key":"csp_小宝影院","name":"🛫小寶影院(海外推荐)","type": 3,"api":"csp_XBPQ","jar":"./xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"+display: none;\">&&</span>","分类url":"https://xiaoxintv.com/index.php/vod/show/by/time/id/{cateId}/page/{catePg}/year/{year}.html","分类": "電視劇$6#電影$7#動漫$5#綜藝$3#紀錄片$21#體育$20"}},
 {"key":"csp_蘭花影院","name":"🛫唐人街影院(海外推荐)","type": 3,"api":"csp_XBPQ","jar":"./xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"hl-col-xs-12 blurb\">&&</li>","分类url":"https://tangrenjietv.net/vodshow/{cateId}--time------{catePg}---{year}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3#短劇$20"}},
 {"key":"csp_If101","name":"✈️If101(海外推荐)","type": 3,"api":"csp_XBPQ","jar":"./xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"content_desc context clearfix\">&&</span>","分类url":"https://www.olehdtv.com/index.php/vod/show/by/time/id/{cateId}/page/{catePg}/year/{year}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3"}},
 {"key":"csp_XBiu泥视频","name":"👑泥视频(XB)","type":3,"api":"csp_XBPQ","jar":"./xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"class=\"fa ds-dianying&&</span>","简介":"this-desc\">&&</div>","分类url":"https://nivod.fun/index.php/vod/show/by/time/id/{cateId}/year/{year}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3#短劇$97"}},
-{"key":"t9-caiji","name":"🎥影视采集(T9)","type":4,"api":"https://catbox.n13.club/t9/caiji.php"},
-{"key":"t9-黑狐","name":"🎞️黑狐影视(T9)","type":4,"api":"https://catbox.n13.club/t9/heihu.php"},
-{"key":"t9-南瓜","name":"🎞️南瓜影视(T9)","type":4,"api":"https://catbox.n13.club/t9/nangua.php"},
+//{"key":"t9-caiji","name":"🎥影视采集(T9)","type":4,"api":"https://catbox.n13.club/t9/caiji.php"},
+//{"key":"t9-黑狐","name":"🎞️黑狐影视(T9)","type":4,"api":"https://catbox.n13.club/t9/heihu.php"},
+//{"key":"t9-南瓜","name":"🎞️南瓜影视(T9)","type":4,"api":"https://catbox.n13.club/t9/nangua.php"},
 {"key":"YoutubeCH","name":"🍀YouTube自訂頻道","type":3,"style":{"type":"oval"},"api":"./Mud.js","ext":"./YouTube.txt"},
 {"key":"直播转点播","name":"💻網路第四台txt格式","type":3,"style":{"type":"oval"},"api":"./live2cms.js","ext":"./live2tv_sq.txt"},
 {"key":"csp_Alist","name":"🗂Alist网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"./Alist.json"},
