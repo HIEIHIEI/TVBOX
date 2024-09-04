@@ -29,12 +29,13 @@
 
 ],
 "sites" : [
-{"key":"drpy","name":"🔥豆瓣評分🔍搜尋","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/js/豆瓣.js"},
-{"key":"drpy__豆瓣","name":"豆瓣🏛[DRPY]","type":3,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
-{"key":"lf_search","name":"🔎lf_搜索影片3","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/lf_search3_min.js"},
+{"key":"t9-douban","name":"🔍豆瓣影視搜索(T9)","type":4,"api":"https://catbox.n13.club/t9/douban.php"},
 {"key":"Youtube","name":"🛗Youtube⏩","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://raw.githubusercontent.com/sqspot/tac/main/youtube.json","type":"直播#新聞#劇集#電影#綜藝#紀錄片#音樂#體育#動物#風光#放鬆#4K#HDR#movie#music#documentary#bbcdocumentary#nationalgeographicdocumentary","keywords":"排行榜,HOT,TRENDS,熱門話題,熱門趨勢,熱門綜藝,熱門電影,熱門電視劇,小姐姐","codecs":""},"style":{"type":"rect","ratio":1.5},"jar":"https://raw.githubusercontent.com/sqspot/tac/main/pgYT.jar"},
 {"key":"Youtube2","name":"👉🔥Youtube台灣🎯👈","type":3,"api":"csp_Youtube","searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://raw.githubusercontent.com/sqspot/tac/main/youtube2.json","codecs":""},"style":{"type":"rect","ratio":1.5},"jar":"https://raw.githubusercontent.com/sqspot/tac/main/pgYT.jar"},
 {"key":"直播转点播","name":"💻網路第四台txt格式","type":3,"style":{"type":"oval"},"api":"https://raw.githubusercontent.com/HIEIHIEI/TVBOX/main/live2cms.js","ext":"https://raw.githubusercontent.com/HIEIHIEI/TVBOX/main/live2tv_sq.txt"},
+{"key":"直播转点播2","name":"💻網路第四台m3u格式","type":3,"searchable":0,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/live2vod.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/live2tv_sq.m3u"},
+{"key":"直播转点播s","name":"💻網路第四台txt♒","type":3,"style":{ "type":"oval" },"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/live2cms.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/live2tv_sq_s.txt"},
+{"key":"直播转点播s2","name":"💻網路第四台m3u♒","type":3,"searchable":0,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/live2vod.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/live2tv_sq_s.m3u"},
 {"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"}
 ],
 
