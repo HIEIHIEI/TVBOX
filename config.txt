@@ -1,20 +1,20 @@
 {
-  "channelList": [ 
+  "channelList": [
     {
-      "url": "http://4gtv.mumi.rip:9877/173/4gtv-live047/index.m3u8",
-      "name": "4GTV東森購物一台"
+      "url": "https://youtu.be/ViJ3XiN6Q3M",
+      "name": "東森購物一台"
     },
     {
-      "url": "http://4gtv.mumi.rip:9877/287/4gtv-live048/index.m3u8",
-      "name": "4GTV東森購物二台"
+      "url": "https://youtu.be/_Vlzn9qAHD4",
+      "name": "東森購物二台"
     },
     {
-      "url": "http://4gtv.mumi.rip:9877/174/4gtv-live046/index.m3u8",
-      "name": "4GTV東森購物三台"
+      "url": "https://youtu.be/Z50JFuNgvB0",
+      "name": "東森購物三台"
     },
     {
-      "url": "http://4gtv.mumi.rip:9877/286/4gtv-live049/index.m3u8",
-      "name": "4GTV東森購物五台"
+      "url": "https://youtu.be/u0NYyH3ZesE",
+      "name": "東森購物五台"
     },
     {
       "url": "https://youtu.be/_pZQ1Lk0xMA",
@@ -161,20 +161,20 @@
       "name": "4K Animal World 4"
     },
     {
-      "url": "https://youtu.be/ViJ3XiN6Q3M",
-      "name": "東森購物一台"
+      "url": "http://4gtv.mumi.rip:9877/173/4gtv-live047/index.m3u8",
+      "name": "4GTV東森購物一台"
     },
     {
-      "url": "https://youtu.be/_Vlzn9qAHD4",
-      "name": "東森購物二台"
+      "url": "http://4gtv.mumi.rip:9877/287/4gtv-live048/index.m3u8",
+      "name": "4GTV東森購物二台"
     },
     {
-      "url": "https://youtu.be/Z50JFuNgvB0",
-      "name": "東森購物三台"
+      "url": "http://4gtv.mumi.rip:9877/174/4gtv-live046/index.m3u8",
+      "name": "4GTV東森購物三台"
     },
     {
-      "url": "https://youtu.be/u0NYyH3ZesE",
-      "name": "東森購物五台"
+      "url": "http://4gtv.mumi.rip:9877/286/4gtv-live049/index.m3u8",
+      "name": "4GTV東森購物五台"
     }
   ]
 }
