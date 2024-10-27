@@ -65,7 +65,7 @@
       "name": "寰宇新聞"
     },
     {
-      "url": "http://4gtv.mumi.rip:9877/3/4gtv-4gtv002/index.m3u8",
+      "url": "https://m.4gtv.tv/channel/4gtv-4gtv002?set=4&ch=3",
       "name": "民視"
     },
     {
@@ -121,19 +121,19 @@
       "name": "東森財經"
     },
     {
-      "url": "http://4gtv.mumi.rip:9877/231/4gtv-live107/index.m3u8",
+      "url": "https://m.4gtv.tv/channel/4gtv-live107?set=4&ch=231",
       "name": "MOMO親子台"
     },
     {
-      "url": "http://4gtv.mumi.rip:9877/202/4gtv-live022/index.m3u8",
+      "url": "https://m.4gtv.tv/channel/4gtv-live022?set=4&ch=202",
       "name": "4GTV經典卡通台"
     },
     {
-      "url": "http://4gtv.mumi.rip:9877/204/4gtv-live024/index.m3u8",
+      "url": "https://m.4gtv.tv/channel/4gtv-live024?set=4&ch=204",
       "name": "4GTV精選動漫台"
     },
     {
-      "url": "http://4gtv.mumi.rip:9877/269/4gtv-live009/index.m3u8",
+      "url": "https://m.4gtv.tv/channel/4gtv-live009?set=4&ch=269",
       "name": "4GTV兒童卡通台"
     },
     {
@@ -149,7 +149,7 @@
       "name": "4K Animal World"
     },
     {
-      "url": "https://www.youtube.com/live/xrlWycMKiPs?si=JGi5nFK79eNkeUZy",
+      "url": "https://www.youtube.com/live/gDGl-cC-IVQ?si=JCPBxv5_Car_dyVN",
       "name": "4K Animal World 2"
     },
     {
@@ -161,19 +161,19 @@
       "name": "4K Animal World 4"
     },
     {
-      "url": "http://4gtv.mumi.rip:9877/173/4gtv-live047/index.m3u8",
+      "url": "https://m.4gtv.tv/channel/4gtv-live047?set=4&ch=173",
       "name": "4GTV東森購物一台"
     },
     {
-      "url": "http://4gtv.mumi.rip:9877/287/4gtv-live048/index.m3u8",
+      "url": "https://m.4gtv.tv/channel/4gtv-live048?set=4&ch=287",
       "name": "4GTV東森購物二台"
     },
     {
-      "url": "http://4gtv.mumi.rip:9877/174/4gtv-live046/index.m3u8",
+      "url": "https://m.4gtv.tv/channel/4gtv-live046?set=4&ch=174",
       "name": "4GTV東森購物三台"
     },
     {
-      "url": "http://4gtv.mumi.rip:9877/286/4gtv-live049/index.m3u8",
+      "url": "https://m.4gtv.tv/channel/4gtv-live049?set=4&ch=286",
       "name": "4GTV東森購物五台"
     }
   ]
