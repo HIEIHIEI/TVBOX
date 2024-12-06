@@ -33,7 +33,7 @@
       "name": "東森新聞"
     },
     {
-      "url": "https://youtube.com/live/oIgbl7t0S_w?feature=share",
+      "url": "https://www.youtube.com/live/vr3XyVCR4T0",
       "name": "中天新聞"
     },
     {
@@ -53,11 +53,11 @@
       "name": "民視新聞"
     },
     {
-      "url": "https://youtu.be/oZdzzvxTfUY",
+      "url": "https://youtu.be/MV9mI0GChwo",
       "name": "三立新聞"
     },
     {
-      "url": "https://youtu.be/CKjSm5ZeehE",
+      "url": "https://youtu.be/pF507BLtbqU",
       "name": "三立 iNEWS 新聞"
     },
     {
