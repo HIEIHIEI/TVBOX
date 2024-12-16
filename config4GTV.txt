@@ -65,7 +65,7 @@
       "name": "寰宇新聞"
     },
     {
-      "url": "https://tv.iill.top/litv/4gtv-4gtv002",
+      "url": "https://m.4gtv.tv/channel/4gtv-4gtv002?set=4&ch=3",
       "name": "民視"
     },
     {
@@ -93,7 +93,7 @@
       "name": "星世界 三立台灣台"
     },
     {
-      "url": "https://tv.iill.top/4gtv/207",
+      "url": "http://4gtv.mumi.rip:9877/169/4gtv-live207/index.m3u8",
       "name": "三立都會台"
     },
     {
@@ -121,19 +121,19 @@
       "name": "東森財經"
     },
     {
-      "url": "https://tv.iill.top/4gtv/231",
+      "url": "https://m.4gtv.tv/channel/4gtv-live107?set=4&ch=231",
       "name": "MOMO親子台"
     },
     {
-      "url": "https://tv.iill.top/4gtv/202",
+      "url": "https://m.4gtv.tv/channel/4gtv-live022?set=4&ch=202",
       "name": "4GTV經典卡通台"
     },
     {
-      "url": "https://tv.iill.top/4gtv/204",
+      "url": "https://m.4gtv.tv/channel/4gtv-live024?set=4&ch=204",
       "name": "4GTV精選動漫台"
     },
     {
-      "url": "https://tv.iill.top/4gtv/269",
+      "url": "https://m.4gtv.tv/channel/4gtv-live009?set=4&ch=269",
       "name": "4GTV兒童卡通台"
     },
     {
@@ -165,19 +165,19 @@
       "name": "LOVE NATURE"
     },
     {
-      "url": "https://tv.iill.top/4gtv/173",
+      "url": "https://m.4gtv.tv/channel/4gtv-live047?set=4&ch=173",
       "name": "4GTV東森購物一台"
     },
     {
-      "url": "https://tv.iill.top/4gtv/287",
+      "url": "https://m.4gtv.tv/channel/4gtv-live048?set=4&ch=287",
       "name": "4GTV東森購物二台"
     },
     {
-      "url": "https://tv.iill.top/4gtv/174",
+      "url": "https://m.4gtv.tv/channel/4gtv-live046?set=4&ch=174",
       "name": "4GTV東森購物三台"
     },
     {
-      "url": "https://tv.iill.top/4gtv/286",
+      "url": "https://m.4gtv.tv/channel/4gtv-live049?set=4&ch=286",
       "name": "4GTV東森購物五台"
     }
   ]
