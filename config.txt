@@ -1,27 +1,27 @@
 {
   "channelList": [
     {
-      "url": "https://youtu.be/ViJ3XiN6Q3M",
+      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/ViJ3XiN6Q3M",
       "name": "東森購物一台"
     },
     {
-      "url": "https://youtu.be/_Vlzn9qAHD4",
+      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/_Vlzn9qAHD4",
       "name": "東森購物二台"
     },
     {
-      "url": "https://youtu.be/Z50JFuNgvB0",
+      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/Z50JFuNgvB0",
       "name": "東森購物三台"
     },
     {
-      "url": "https://youtu.be/u0NYyH3ZesE",
+      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/u0NYyH3ZesE",
       "name": "東森購物五台"
     },
     {
-      "url": "https://youtu.be/_pZQ1Lk0xMA",
+      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/_pZQ1Lk0xMA",
       "name": "MOMO購物一台"
     },
     {
-      "url": "https://youtu.be/xbNWkUyxQGM",
+      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/xbNWkUyxQGM",
       "name": "MOMO購物二台"
     },
     {
@@ -29,19 +29,19 @@
       "name": "TVBS新聞"
     },
     {
-      "url": "https://youtu.be/V1p33hqPrUk",
+      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/V1p33hqPrUk",
       "name": "東森新聞"
     },
     {
-      "url": "https://www.youtube.com/live/vr3XyVCR4T0",
+      "url": "http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/live/vr3XyVCR4T0",
       "name": "中天新聞"
     },
     {
-      "url": "https://youtu.be/xL0ch83RAK8",
+      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/xL0ch83RAK8",
       "name": "台視新聞"
     },
     {
-      "url": "https://www.youtube.com/c/twctvnews/live",
+      "url": "http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/c/twctvnews/live",
       "name": "中視新聞"
     },
     {
@@ -49,19 +49,19 @@
       "name": "華視新聞"
     },
     {
-      "url": "https://youtu.be/ylYJSBUgaMA",
+      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/ylYJSBUgaMA",
       "name": "民視新聞"
     },
     {
-      "url": "https://youtu.be/MV9mI0GChwo",
+      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/MV9mI0GChwo",
       "name": "三立新聞"
     },
     {
-      "url": "https://youtu.be/pF507BLtbqU",
+      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/pF507BLtbqU",
       "name": "三立 iNEWS 新聞"
     },
     {
-      "url": "https://youtu.be/6IquAgfvYmc",
+      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/6IquAgfvYmc",
       "name": "寰宇新聞"
     },
     {
@@ -81,7 +81,7 @@
       "name": "華視"
     },
     {
-      "url": "https://youtu.be/uDqQo8a7Xmk",
+      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/uDqQo8a7Xmk",
       "name": "YT台視"
     },
     {
@@ -97,27 +97,27 @@
       "name": "三立都會台"
     },
     {
-      "url": "https://youtu.be/C6gYqSHLRw4",
+      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/C6gYqSHLRw4",
       "name": "公共電視"
     },
     {
-      "url": "https://youtu.be/oV_i3Hsl_zg",
+      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/oV_i3Hsl_zg",
       "name": "大愛一臺"
     },
     {
-      "url": "https://youtu.be/DTNkEm6jaqQ",
+      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/DTNkEm6jaqQ",
       "name": "大愛二臺"
     },
     {
-      "url": "https://youtu.be/MIqUplvSRWA",
+      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/MIqUplvSRWA",
       "name": "大愛一臺全球直播"
     },
     {
-      "url": "https://youtu.be/YfeacCN2ORs",
+      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/YfeacCN2ORs",
       "name": "中天亞洲台"
     },
     {
-      "url": "https://www.youtube.com/user/57ETFN/live",
+      "url": "http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/user/57ETFN/live",
       "name": "東森財經"
     },
     {
@@ -145,19 +145,19 @@
       "name": "ofiii哆啦A夢台"
     },
     {
-      "url": "https://www.youtube.com/live/bKLftRxcy3k?feature=shared",
+      "url": "http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/live/bKLftRxcy3k?feature=shared",
       "name": "4K Animal World"
     },
     {
-      "url": "https://www.youtube.com/live/gDGl-cC-IVQ?si=JCPBxv5_Car_dyVN",
+      "url": "http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/live/gDGl-cC-IVQ?si=JCPBxv5_Car_dyVN",
       "name": "4K Animal World 2"
     },
     {
-      "url": "https://www.youtube.com/live/N7oOyWgPYwM?feature=shared",
+      "url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/2wzCPRm91rc",
       "name": "4K Animal World 3"
     },
     {
-      "url": "https://www.youtube.com/live/osyzmMj5_vo?si=PIgZETQY1D1MRUsj",
+      "url": "http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/live/osyzmMj5_vo?si=PIgZETQY1D1MRUsj",
       "name": "4K Animal World 4"
     },
     {
