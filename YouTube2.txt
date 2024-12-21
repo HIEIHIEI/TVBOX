@@ -1,28 +1,44 @@
 YouTube頻道,#genre#
-東森購物一台,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=ViJ3XiN6Q3M
-東森購物二台,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=_Vlzn9qAHD4
-東森購物三台,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=Z50JFuNgvB0
-東森購物五台,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=u0NYyH3ZesE
-MOMO購物一台,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=_pZQ1Lk0xMA
-MOMO購物二台,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=xbNWkUyxQG
-TVBS新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=m_dhMSvUCIc
-民視新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=ylYJSBUgaMA
-三立新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=oZdzzvxTfUY
-三立財經,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=CKjSm5ZeehE
-中天新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=oIgbl7t0S_w
-東森新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=LuQ4S-i5zoE
-EBC東森財經,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=WHEPzbFA3hw
-華視新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=wM0g8EoUZ_E
-中視新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=TCnaIE_SAtM
-台視新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=xL0ch83RAK8
-寰宇新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=6IquAgfvYmc
-寰宇新聞台灣台,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=w87VGpgd90U
-鏡新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=5n0y6b0Q25o
-公視新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=quwqlazU-c8
-NBC NEW,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=--ZdMGK9Hn0
-CCTV新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=bEZYrBMYNNg
-公共電視,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=C6gYqSHLRw4
-大愛一臺,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=oV_i3Hsl_zg
-大愛二臺,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=DTNkEm6jaqQ
-大愛一臺全球直播,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=MIqUplvSRWA
-中天亞洲台,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=s2waUruqze4
+東森購物一台,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/ViJ3XiN6Q3M#https://tv.iill.top/4gtv/173
+東森購物二台,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/_Vlzn9qAHD4#https://tv.iill.top/4gtv/287
+東森購物三台,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/Z50JFuNgvB0#https://tv.iill.top/4gtv/174
+東森購物五台,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/u0NYyH3ZesE#https://tv.iill.top/4gtv/286
+MOMO購物一台,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/_pZQ1Lk0xMA
+MOMO購物二台,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/xbNWkUyxQGM
+TVBS新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/m_dhMSvUCIc#https://today.line.me/tw/v2/article/jggMBa
+東森新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/V1p33hqPrUk
+中天新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/live/vr3XyVCR4T0
+台視新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/xL0ch83RAK8
+中視新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/TCnaIE_SAtM#http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/c/twctvnews/live
+華視新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/wM0g8EoUZ_E#http://127.0.0.1:9978/proxy?do=yt&url=https://pse.is/CTSNewsLive
+民視新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/ylYJSBUgaMA
+三立新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/MV9mI0GChwo
+三立iNEWS,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/pF507BLtbqU
+寰宇新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/6IquAgfvYmc
+寰宇新聞台灣台,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/w87VGpgd90U
+鏡新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/5n0y6b0Q25o
+公視新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/quwqlazU-c8
+EBC東森財經,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/user/57ETFN/live
+公共電視,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/C6gYqSHLRw4
+大愛一臺,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/oV_i3Hsl_zg
+大愛二臺,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/DTNkEm6jaqQ
+大愛一臺全球直播,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/MIqUplvSRWA
+中天亞洲台,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/YfeacCN2ORs
+民視,https://tv.iill.top/litv/4gtv-4gtv002
+台視,https://www.ofiii.com/channel/watch/4gtv-4gtv066#http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/uDqQo8a7Xmk
+中視,https://www.ofiii.com/channel/watch/4gtv-4gtv040
+華視,https://www.ofiii.com/channel/watch/4gtv-4gtv041
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+星世界 三立台灣台,https://www.histar.tv/live/settv-taiwan
+三立都會台,https://tv.iill.top/4gtv/207
+MOMO親子台,https://tv.iill.top/4gtv/231
+4GTV經典卡通台,https://tv.iill.top/4gtv/202
+4GTV精選動漫台,https://tv.iill.top/4gtv/204
+4GTV兒童卡通台,https://tv.iill.top/4gtv/269
+ofiii龍華卡通台,https://www.ofiii.com/channel/watch/litv-longturn01
+ofiii哆啦A夢台,https://www.ofiii.com/channel/watch/ofiii22
+4K Animal World,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/live/bKLftRxcy3k?feature=shared
+4K Animal World 2,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/live/gDGl-cC-IVQ?si=JCPBxv5_Car_dyVN
+4K Animal World 3,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/live/N7oOyWgPYwM?feature=shared
+4K Animal World 4,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/live/osyzmMj5_vo?si=PIgZETQY1D1MRUsj
+LOVE NATURE,https://tv.iill.top/4gtv/139
