@@ -1,27 +1,27 @@
 {
   "channelList": [
     {
-      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/ViJ3XiN6Q3M",
+      "url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/ViJ3XiN6Q3M",
       "name": "東森購物一台"
     },
     {
-      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/_Vlzn9qAHD4",
+      "url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/_Vlzn9qAHD4",
       "name": "東森購物二台"
     },
     {
-      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/Z50JFuNgvB0",
+      "url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/Z50JFuNgvB0",
       "name": "東森購物三台"
     },
     {
-      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/u0NYyH3ZesE",
+      "url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/u0NYyH3ZesE",
       "name": "東森購物五台"
     },
     {
-      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/_pZQ1Lk0xMA",
+      "url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/_pZQ1Lk0xMA",
       "name": "MOMO購物一台"
     },
     {
-      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/xbNWkUyxQGM",
+      "url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/xbNWkUyxQGM",
       "name": "MOMO購物二台"
     },
     {
@@ -29,7 +29,7 @@
       "name": "TVBS新聞"
     },
     {
-      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/V1p33hqPrUk",
+      "url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/V1p33hqPrUk",
       "name": "東森新聞"
     },
     {
@@ -37,7 +37,7 @@
       "name": "中天新聞"
     },
     {
-      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/xL0ch83RAK8",
+      "url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/xL0ch83RAK8",
       "name": "台視新聞"
     },
     {
@@ -49,19 +49,19 @@
       "name": "華視新聞"
     },
     {
-      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/ylYJSBUgaMA",
+      "url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/ylYJSBUgaMA",
       "name": "民視新聞"
     },
     {
-      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/MV9mI0GChwo",
+      "url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/MV9mI0GChwo",
       "name": "三立新聞"
     },
     {
-      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/pF507BLtbqU",
+      "url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/pF507BLtbqU",
       "name": "三立 iNEWS 新聞"
     },
     {
-      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/6IquAgfvYmc",
+      "url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/6IquAgfvYmc",
       "name": "寰宇新聞"
     },
     {
@@ -81,7 +81,7 @@
       "name": "華視"
     },
     {
-      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/uDqQo8a7Xmk",
+      "url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/uDqQo8a7Xmk",
       "name": "YT台視"
     },
     {
@@ -97,23 +97,23 @@
       "name": "三立都會台"
     },
     {
-      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/C6gYqSHLRw4",
+      "url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/C6gYqSHLRw4",
       "name": "公共電視"
     },
     {
-      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/oV_i3Hsl_zg",
+      "url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/oV_i3Hsl_zg",
       "name": "大愛一臺"
     },
     {
-      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/DTNkEm6jaqQ",
+      "url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/DTNkEm6jaqQ",
       "name": "大愛二臺"
     },
     {
-      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/MIqUplvSRWA",
+      "url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/MIqUplvSRWA",
       "name": "大愛一臺全球直播"
     },
     {
-      "url": ""url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/YfeacCN2ORs",
+      "url": "http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/YfeacCN2ORs",
       "name": "中天亞洲台"
     },
     {
