@@ -4,7 +4,7 @@
 //"wallpaper":"https://www.dmoe.cc/random.php",  //默认动漫少女
 
 "lives":[
-{"name":"YOUTUBE 直播","type":0,"url":"https://raw.githubusercontent.com/HIEIHIEI/TVBOX/refs/heads/main/YouTube2.txt","playerType":1},
+{"name":"YOUTUBE 直播","type":0,"url":"https://raw.githubusercontent.com/HIEIHIEI/TVBOX/main/YouTube2.txt","playerType":1},
 {"group":"redirect","channels":[{"name":"直播源","urls":["proxy://do=live&type=txt&ext=https://ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt"]}]},
 {"name":"綜合版 ijk","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/4gtv.txt","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36","playerType":1,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ads":["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]},
 {"name":"綜合版 exo","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/4gtv.txt","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36","playerType":2,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ads":["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]},
