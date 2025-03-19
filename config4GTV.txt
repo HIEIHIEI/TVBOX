@@ -113,7 +113,7 @@
       "name": "大愛一臺全球直播"
     },
     {
-      "url": "https://youtu.be/YfeacCN2ORs",
+      "url": "https://www.youtube.com/live/R2ci13O5Mt0",
       "name": "中天亞洲台"
     },
     {
@@ -157,7 +157,7 @@
       "name": "4K Animal World 3"
     },
     {
-      "url": "https://www.youtube.com/live/osyzmMj5_vo?si=PIgZETQY1D1MRUsj",
+      "url": "https://youtu.be/RjO9A3Jpsno",
       "name": "4K Animal World 4"
     },
     {
