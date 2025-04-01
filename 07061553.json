@@ -29,7 +29,7 @@
 {"key":"csp_XBiuNIVODapp","name":"👑泥视频(海外推荐)","type":3,"api":"csp_XBPQ","jar":"./xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"class=\"playlist-mobile playlist layout-box clearfix&&</ul>","简介":"details-content-all\">&&</span>","分类url":"https://www.nivod.app/vod-show-{cateId}/page/{catePg}/year/{year}.html","分类": "電視劇$1#電影$2#動漫$4#綜藝$3#動畫電影$215"}},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmysm","name":"😾農民秒播","type":3,"api":"csp_YMNm","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://d.kstore.space/download/3313/mao/nm","jar":" ./Xymz.jar"},
-{"key":"豆瓣","name":"🔎豆瓣資源搜索","type": 3,"api": "csp_Douban","jar":"https://raw.githubusercontent.com/sqspot/tac/main/tvkj.jar","searchable": 0,"changeable": 1},
+{"key":"豆瓣","name":"🔎豆瓣資源搜索","type": 3,"api": "csp_Douban","jar":"./tvkj.jar","searchable": 0,"changeable": 1},
 //{"key":"YoutubeCH","name":"🍀YouTube自訂頻道","type":3,"style":{"type":"oval"},"searchable":0,"api":"./Mud.js","ext":"./YouTube.txt"},
 //{"key":"直播转点播","name":"💻網路第四台txt格式","type":3,"style":{"type":"oval"},"searchable":0,"api":"./live2cms.js","ext":"./live2tv_sq.txt"},
 //{"key":"直播转点播2","name":"💻網路第四台m3u格式","type":3,"searchable":0,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/live2vod.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/live2tv_sq.m3u"},
