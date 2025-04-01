@@ -25,7 +25,7 @@
       "name": "MOMO購物二台"
     },
     {
-      "url": "https://today.line.me/tw/v2/article/jggMBa",
+      "url": "https://www.youtube.com/live/m_dhMSvUCIc",
       "name": "TVBS新聞"
     },
     {
@@ -113,7 +113,7 @@
       "name": "大愛一臺全球直播"
     },
     {
-      "url": "https://www.youtube.com/live/R2ci13O5Mt0",
+      "url": "https://www.youtube.com/live/dKkyfjn8xq8",
       "name": "中天亞洲台"
     },
     {
