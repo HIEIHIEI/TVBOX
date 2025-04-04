@@ -21,14 +21,13 @@
 ],
 
 "spider":"./xyqxbpq.jar",
-//"spider":"./panda1123.jar",
 
 "sites":[
 {"key":"csp_小宝影院","name":"🛫小寶影院(海外推荐)","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"+display: none;\">&&</span>","分类url":"https://xiaoxintv.com/index.php/vod/show/by/time/id/{cateId}/page/{catePg}/year/{year}.html","分类": "電視劇$6#電影$7#動漫$5#綜藝$3#紀錄片$21#體育$20"}},
 {"key":"csp_妙妙影院","name":"🛫唐人街影院(海外推荐)","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"hl-col-xs-12 blurb\">&&</li>","分类url":"https://dy225.com/index.php/vod/show/by/time/id/{cateId}/page/{catePg}/year/{year}.html","分类": "電視劇$2#電影$1#動漫$3#綜藝$4#紀錄片$20#短劇$26"}},
 {"key":"csp_If101","name":"✈️If101(海外推荐)","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"content_desc context clearfix\">&&</span>","分类url":"https://www.olehdtv.com/index.php/vod/show/by/time/id/{cateId}/page/{catePg}/year/{year}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3#紀錄片$111#動畫電影$108#短劇$14"}},
 {"key":"csp_XBiuNIVODapp","name":"👑泥视频(海外推荐)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"class=\"playlist-mobile playlist layout-box clearfix&&</ul>","简介":"details-content-all\">&&</span>","分类url":"https://www.nivod.app/vod-show-{cateId}/page/{catePg}/year/{year}.html","分类": "電視劇$1#電影$2#動漫$4#綜藝$3#動畫電影$215"}},
-{"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","jar":"./panda1123.jar","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmysm","name":"😾農民秒播","type":3,"api":"csp_YMNm","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://d.kstore.space/download/3313/mao/nm","jar":" ./Xymz.jar"},
 {"key":"豆瓣","name":"🔎豆瓣資源搜索","type": 3,"api": "csp_Douban","jar":"./tvkj.jar","searchable": 0,"changeable": 1},
 //{"key":"YoutubeCH","name":"🍀YouTube自訂頻道","type":3,"style":{"type":"oval"},"searchable":0,"api":"./Mud.js","ext":"./YouTube.txt"},
@@ -36,8 +35,8 @@
 //{"key":"直播转点播2","name":"💻網路第四台m3u格式","type":3,"searchable":0,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/live2vod.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/live2tv_sq.m3u"},
 //{"key":"直播转点播s","name":"💻網路第四台txt♒","type":3,"style":{ "type":"oval" },"searchable":0,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/live2cms.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/live2tv_sq_s.txt"},
 //{"key":"直播转点播s2","name":"💻網路第四台m3u♒","type":3,"searchable":0,"api":"https://raw.githubusercontent.com/sqspot/tac/main/lib/live2vod.js","ext":"https://raw.githubusercontent.com/sqspot/tac/main/live2tv_sq_s.m3u"},
-{"key":"csp_Alist","name":"🗂Alist网盘","type":3,"api":"csp_Alist","jar":"./panda1123.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./Alist.json"},
-{"key":"csp_bendi","name":"📂本地视频","type":3,"api":"csp_LocalFile","jar":"./panda1123.jar","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
+{"key":"csp_Alist","name":"🗂Alist网盘","type":3,"api":"csp_Alist","jar":"./panda1123.jar","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Alist.json"},
+{"key":"csp_bendi","name":"📂本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
 #
 
 #XB片源
