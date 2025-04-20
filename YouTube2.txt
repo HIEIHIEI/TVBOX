@@ -5,7 +5,7 @@ YouTube頻道,#genre#
 東森購物五台,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/u0NYyH3ZesE#https://tv.iill.top/4gtv/286
 MOMO購物一台,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/_pZQ1Lk0xMA
 MOMO購物二台,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/xbNWkUyxQGM
-TVBS新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/m_dhMSvUCIc#https://today.line.me/tw/v2/article/jggMBa
+TVBS新聞,https://yewtu.be/embed/m_dhMSvUCIc#https://today.line.me/tw/v2/article/jggMBa
 東森新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/V1p33hqPrUk
 中天新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/live/vr3XyVCR4T0
 台視新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://youtu.be/xL0ch83RAK8
