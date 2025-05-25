@@ -65,7 +65,7 @@
       "name": "寰宇新聞"
     },
     {
-      "url": "http://wanjiatv.net/litv.php?id=4gtv-4gtv002",
+      "url": "https://m.4gtv.tv/channel/4gtv-4gtv002?set=4&ch=3",
       "name": "民視"
     },
     {
@@ -121,19 +121,19 @@
       "name": "東森財經"
     },
     {
-      "url": "http://wanjiatv.net/litv.php?id=4gtv-4gtv231",
+      "url": "https://m.4gtv.tv/channel/4gtv-live107?set=4&ch=231",
       "name": "MOMO親子台"
     },
     {
-      "url": "http://wanjiatv.net/litv.php?id=4gtv-4gtv202",
+      "url": "https://m.4gtv.tv/channel/4gtv-live022?set=4&ch=202",
       "name": "4GTV經典卡通台"
     },
     {
-      "url": "http://wanjiatv.net/litv.php?id=4gtv-4gtv204",
+      "url": "https://m.4gtv.tv/channel/4gtv-live024?set=4&ch=204",
       "name": "4GTV精選動漫台"
     },
     {
-      "url": "http://wanjiatv.net/litv.php?id=4gtv-4gtv269",
+      "url": "https://m.4gtv.tv/channel/fast-live409?set=4&ch=334",
       "name": "4GTV兒童卡通台"
     },
     {
@@ -141,11 +141,11 @@
       "name": "ofiii龍華卡通台"
     },
     {
-      "url": "https://www.ofiii.com/channel/watch/ofiii22",
-      "name": "ofiii哆啦A夢台"
+      "url": "https://m.4gtv.tv/channel/fast-live405?set=4&ch=331",
+      "name": "4GTV哆啦A夢台"
     },
     {
-      "url": "https://www.youtube.com/live/bKLftRxcy3k?feature=shared",
+      "url": "https://youtu.be/CqnNNWHNs4Q",
       "name": "4K Animal World"
     },
     {
