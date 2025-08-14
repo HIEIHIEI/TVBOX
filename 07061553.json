@@ -2,9 +2,9 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "lives":[
-{"name":"Gather exo","type":0,"url":"https://tv.iill.top/m3u/Gather","playerType":2},
+{"name":"Gather exo","type":0,"url":"https://tv-1.iill.top/m3u/Gather","playerType":2},
 {"name":"直播源","type":0,"url":"https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt","playerType":2},
-{"name":"Gather ijk","type":0,"url":"https://tv.iill.top/m3u/Gather","playerType":1},
+{"name":"Gather ijk","type":0,"url":"https://tv-1.iill.top/m3u/Gather","playerType":1},
 {"name":"YOUTUBE 直播","type":0,"url":"./YouTube2.txt","playerType":2},
 {"name":"綜合版 ijk","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/4gtv.txt","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36","playerType":1,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ads":["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]},
 {"name":"綜合版 exo","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/4gtv.txt","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36","playerType":2,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ads":["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]},
