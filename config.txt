@@ -65,7 +65,7 @@
       "name": "寰宇新聞"
     },
     {
-      "url": "https://m.4gtv.tv/channel/4gtv-4gtv002?set=4&ch=3",
+      "url": "https://tv-1.iill.top/litv/4gtv-4gtv002",
       "name": "民視"
     },
     {
@@ -93,7 +93,7 @@
       "name": "星世界 三立台灣台"
     },
     {
-      "url": "https://tv.iill.top/4gtv/207",
+      "url": "https://tv-1.iill.top/4gtv/4gtv-live207",
       "name": "三立都會台"
     },
     {
@@ -157,11 +157,11 @@
       "name": "4K Animal World 3"
     },
     {
-      "url": "https://youtu.be/RjO9A3Jpsno",
+      "url": "https://youtu.be/p8wt6jUjgB4",
       "name": "4K Animal World 4"
     },
     {
-      "url": "http://wanjiatv.net/litv.php?id=4gtv-4gtv139",
+      "url": "https://tv-1.iill.top/4gtv/4gtv-live208",
       "name": "LOVE NATURE"
     },
     {
