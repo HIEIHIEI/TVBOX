@@ -19,26 +19,24 @@ TVBS新聞,https://live.iill.top/youtube/m_dhMSvUCIc#https://tv-1.iill.top/litv/
 鏡新聞,https://live.iill.top/youtube/5n0y6b0Q25o
 公視新聞,https://live.iill.top/youtube/quwqlazU-c8
 EBC東森財經,https://tv-1.iill.top/litv/4gtv-4gtv153#https://www.youtube.com/user/57ETFN/live
-公共電視,https://live.iill.top/youtube/C6gYqSHLRw4
-大愛一臺,https://live.iill.top/youtube/oV_i3Hsl_zg
+公共電視,https://live.iill.top/youtube/C6gYqSHLRw4?feature=shared
+大愛一臺,https://live.iill.top/youtube/MIqUplvSRWA#https://live.iill.top/youtube/oV_i3Hsl_zg?feature=shared
 大愛二臺,https://live.iill.top/youtube/DTNkEm6jaqQ
-大愛一臺全球直播,https://live.iill.top/youtube/MIqUplvSRWA
 中天亞洲台,https://tv-1.iill.top/litv/4gtv-4gtv109#https://live.iill.top/youtube/YfeacCN2ORs
 民視,https://tv.iill.top/litv/4gtv-4gtv002
 台視,https://tv-1.iill.top/litv/4gtv-4gtv066#https://www.ofiii.com/channel/watch/4gtv-4gtv066#https://live.iill.top/youtube/uDqQo8a7Xmk
 中視,https://tv-1.iill.top/litv/4gtv-4gtv040#https://www.ofiii.com/channel/watch/4gtv-4gtv040
 華視,https://tv-1.iill.top/litv/4gtv-4gtv041#https://www.ofiii.com/channel/watch/4gtv-4gtv041
-動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-星世界 三立台灣台,https://www.histar.tv/live/settv-taiwan
-三立都會台,https://tv-1.iill.top/4gtv/4gtv-live207
+三立都會台,https://tv-1.iill.top/4gtv/4gtv-live207#https://www.histar.tv/live/settv-taiwan
 MOMO親子台,https://tv-1.iill.top/4gtv/4gtv-live107
-4GTV經典卡通台,https://tv-1.iill.top/4gtv/4gtv-live022
-4GTV精選動漫台,https://tv-1.iill.top/4gtv/4gtv-live024
-4GTV兒童卡通台,https://tv-1.iill.top/4gtv/4gtv-live269
+4GTV經典卡通台,https://tv-1.iill.top/4gtv/4gtv-live022#https://tv-1.iill.top/4gtv/4gtv-live406
+4GTV精選動漫台,https://tv-1.iill.top/4gtv/4gtv-live024#https://tv-1.iill.top/4gtv/4gtv-live407
+4GTV精選迪士尼卡通台,https://tv-1.iill.top/4gtv/4gtv-live408
+4GTV親子一起看,https://tv-1.iill.top/4gtv/4gtv-live412
 ofiii龍華卡通台,https://tv-1.iill.top/litv/litv-longturn01#https://www.ofiii.com/channel/watch/litv-longturn01
-ofiii哆啦A夢台,https://www.ofiii.com/channel/watch/ofiii22
+ofiii哆啦A夢台,https://tv-1.iill.top/4gtv/4gtv-live405#https://www.ofiii.com/channel/watch/ofiii22
 4K Animal World,https://live.iill.top/youtube/CqnNNWHNs4Q
 4K Animal World 2,https://live.iill.top/youtube/gDGl-cC-IVQ?si=JCPBxv5_Car_dyVN
 4K Animal World 3,https://live.iill.top/youtube/2wzCPRm91rc
 4K Animal World 4,https://live.iill.top/youtube/p8wt6jUjgB4
-LOVE NATURE,https://tv-1.iill.top/4gtv/4gtv-live208#https://epg-1.iill.top/v/302.mp4
+LOVE NATURE,https://tv-1.iill.top/4gtv/4gtv-live208#http://61.221.215.25:8800/hls/57/index.m3u8#https://epg-1.iill.top/v/302.mp4
