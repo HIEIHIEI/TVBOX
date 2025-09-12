@@ -1,11 +1,11 @@
 YouTube頻道,#genre#
-東森購物一台,https://live.iill.top/youtube/ViJ3XiN6Q3M#https://tv-1.iill.top/4gtv/4gtv-live047
-東森購物二台,https://live.iill.top/youtube/_Vlzn9qAHD4#https://tv-1.iill.top/4gtv/4gtv-live046
-東森購物三台,https://live.iill.top/youtube/Z50JFuNgvB0#https://tv-1.iill.top/4gtv/4gtv-live048
-東森購物五台,https://live.iill.top/youtube/u0NYyH3ZesE#https://tv-1.iill.top/4gtv/4gtv-live049
+東森購物一台,https://live.iill.top/youtube/ViJ3XiN6Q3M#https://tv.iill.top/4gtv/4gtv-live047
+東森購物二台,https://live.iill.top/youtube/_Vlzn9qAHD4#https://tv.iill.top/4gtv/4gtv-live046
+東森購物三台,https://live.iill.top/youtube/Z50JFuNgvB0#https://tv.iill.top/4gtv/4gtv-live048
+東森購物五台,https://live.iill.top/youtube/u0NYyH3ZesE#https://tv.iill.top/4gtv/4gtv-live049
 MOMO購物一台,https://live.iill.top/youtube/_pZQ1Lk0xMA
 MOMO購物二台,https://live.iill.top/youtube/xbNWkUyxQGM
-TVBS新聞,https://live.iill.top/youtube/m_dhMSvUCIc#https://tv-1.iill.top/litv/4gtv-4gtv072
+TVBS新聞,https://live.iill.top/youtube/m_dhMSvUCIc#https://tv.iill.top/litv/4gtv-4gtv072
 東森新聞,https://live.iill.top/youtube/V1p33hqPrUk
 中天新聞,https://live.iill.top/youtube/vr3XyVCR4T0
 台視新聞,https://live.iill.top/youtube/xL0ch83RAK8
@@ -18,27 +18,27 @@ TVBS新聞,https://live.iill.top/youtube/m_dhMSvUCIc#https://tv-1.iill.top/litv/
 寰宇新聞台灣台,https://live.iill.top/youtube/w87VGpgd90U
 鏡新聞,https://live.iill.top/youtube/5n0y6b0Q25o
 公視新聞,https://live.iill.top/youtube/quwqlazU-c8
-東森財經新聞,https://tv-1.iill.top/litv/4gtv-4gtv153#https://www.youtube.com/user/57ETFN/live
+東森財經新聞,https://tv.iill.top/litv/4gtv-4gtv153#https://www.youtube.com/user/57ETFN/live
 民視,https://tv.iill.top/litv/4gtv-4gtv002
-台視,https://tv-1.iill.top/litv/4gtv-4gtv066#https://www.ofiii.com/channel/watch/4gtv-4gtv066#https://live.iill.top/youtube/uDqQo8a7Xmk
-中視,https://tv-1.iill.top/litv/4gtv-4gtv040#https://www.ofiii.com/channel/watch/4gtv-4gtv040
-華視,https://tv-1.iill.top/litv/4gtv-4gtv041#https://www.ofiii.com/channel/watch/4gtv-4gtv041
-三立都會台,https://tv-1.iill.top/4gtv/4gtv-live207#https://www.histar.tv/live/settv-taiwan
-公共電視,https://tv-1.iill.top/4gtv/4gtv-4gtv042#https://live.iill.top/youtube/C6gYqSHLRw4
-大愛一臺,https://live.iill.top/youtube/MIqUplvSRWA#https://tv-1.iill.top/4gtv/4gtv-live007#https://live.iill.top/youtube/oV_i3Hsl_zg
-大愛二臺,https://live.iill.top/youtube/DTNkEm6jaqQ#https://tv-1.iill.top/4gtv/4gtv-live106
-中天亞洲台,https://tv-1.iill.top/litv/4gtv-4gtv109#https://live.iill.top/youtube/YfeacCN2ORs
-TVBS及歡樂台,https://tv-1.iill.top/litv/4gtv-4gtv073#https://tv-1.iill.top/litv/4gtv-4gtv068
-愛爾達娛樂台,https://tv-1.iill.top/litv/4gtv-4gtv070
-MOMO親子台,https://tv-1.iill.top/4gtv/4gtv-live107
-經典卡通台,https://tv-1.iill.top/4gtv/4gtv-live022#https://tv-1.iill.top/4gtv/fast-live406
-精選動漫台,https://tv-1.iill.top/4gtv/4gtv-live024#https://tv-1.iill.top/4gtv/fast-live407
-龍華卡通台,https://tv-1.iill.top/litv/litv-longturn01#https://www.ofiii.com/channel/watch/litv-longturn01
-綜合卡通動漫台,https://tv-1.iill.top/4gtv/4gtv-4gtv044#https://tv-1.iill.top/4gtv/4gtv-4gtv057#https://tv-1.iill.top/4gtv/4gtv-live017#https://tv-1.iill.top/4gtv/fast-live405#https://tv-1.iill.top/4gtv/fast-live408#https://tv-1.iill.top/4gtv/fast-live412#https://www.ofiii.com/channel/watch/ofiii22
+台視,https://tv.iill.top/litv/4gtv-4gtv066#https://www.ofiii.com/channel/watch/4gtv-4gtv066#https://live.iill.top/youtube/uDqQo8a7Xmk
+中視,https://tv.iill.top/litv/4gtv-4gtv040#https://www.ofiii.com/channel/watch/4gtv-4gtv040
+華視,https://tv.iill.top/litv/4gtv-4gtv041#https://www.ofiii.com/channel/watch/4gtv-4gtv041
+三立都會台,https://tv.iill.top/4gtv/4gtv-live207#https://www.histar.tv/live/settv-taiwan
+公共電視,https://tv.iill.top/4gtv/4gtv-4gtv042#https://live.iill.top/youtube/C6gYqSHLRw4
+大愛一臺,https://live.iill.top/youtube/MIqUplvSRWA#https://tv.iill.top/4gtv/4gtv-live007#https://live.iill.top/youtube/oV_i3Hsl_zg
+大愛二臺,https://live.iill.top/youtube/DTNkEm6jaqQ#https://tv.iill.top/4gtv/4gtv-live106
+中天亞洲台,https://tv.iill.top/litv/4gtv-4gtv109#https://live.iill.top/youtube/YfeacCN2ORs
+TVBS及歡樂台,https://tv.iill.top/litv/4gtv-4gtv073#https://tv.iill.top/litv/4gtv-4gtv068
+愛爾達娛樂台,https://tv.iill.top/litv/4gtv-4gtv070
+MOMO親子台,https://tv.iill.top/4gtv/4gtv-live107
+經典卡通台,https://tv.iill.top/4gtv/4gtv-live022#https://tv.iill.top/4gtv/fast-live406
+精選動漫台,https://tv.iill.top/4gtv/4gtv-live024#https://tv.iill.top/4gtv/fast-live407
+龍華卡通台,https://tv.iill.top/litv/litv-longturn01#https://www.ofiii.com/channel/watch/litv-longturn01
+綜合卡通動漫台,https://tv.iill.top/4gtv/4gtv-4gtv044#https://tv.iill.top/4gtv/4gtv-4gtv057#https://tv.iill.top/4gtv/4gtv-live017#https://tv.iill.top/4gtv/fast-live405#https://tv.iill.top/4gtv/fast-live408#https://tv.iill.top/4gtv/fast-live412#https://www.ofiii.com/channel/watch/ofiii22
 4K Animal World,https://live.iill.top/youtube/CqnNNWHNs4Q
 4K Animal World 2,https://live.iill.top/youtube/gDGl-cC-IVQ?si=JCPBxv5_Car_dyVN
 4K Animal World 3,https://live.iill.top/youtube/2wzCPRm91rc
 4K Animal World 4,https://live.iill.top/youtube/p8wt6jUjgB4
-LOVE NATURE,https://tv-1.iill.top/4gtv/4gtv-live208#http://61.221.215.25:8800/hls/57/index.m3u8
+LOVE NATURE,https://tv.iill.top/4gtv/4gtv-live208#http://61.221.215.25:8800/hls/57/index.m3u8
 訂閱頻道,#genre#
 訂閱,https://yang-1989.eu.org/#https://tv.iill.top/m3u/Gather#https://tv.iill.top/m3u/Live
