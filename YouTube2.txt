@@ -36,9 +36,9 @@ MOMO親子台,https://tv.iill.top/4gtv/4gtv-live107
 龍華卡通台,https://tv.iill.top/litv/litv-longturn01#https://www.ofiii.com/channel/watch/litv-longturn01
 綜合卡通動漫台,https://tv.iill.top/4gtv/4gtv-4gtv044#https://tv.iill.top/4gtv/4gtv-4gtv057#https://tv.iill.top/4gtv/4gtv-live017#https://tv.iill.top/4gtv/fast-live405#https://tv.iill.top/4gtv/fast-live408#https://tv.iill.top/4gtv/fast-live412#https://www.ofiii.com/channel/watch/ofiii22
 4K Animal World,https://live.iill.top/youtube/CqnNNWHNs4Q
-4K Animal World 2,https://live.iill.top/youtube/gDGl-cC-IVQ?si=JCPBxv5_Car_dyVN
+4K Animal World 2,https://live.iill.top/youtube/xCLTpcx9aO8
 4K Animal World 3,https://live.iill.top/youtube/2wzCPRm91rc
 4K Animal World 4,https://live.iill.top/youtube/p8wt6jUjgB4
 LOVE NATURE,https://tv.iill.top/4gtv/4gtv-live208#http://61.221.215.25:8800/hls/57/index.m3u8
 訂閱頻道,#genre#
-訂閱,https://yang-1989.eu.org/#https://tv.iill.top/m3u/Gather#https://tv.iill.top/m3u/Live
+訂閱,https://tv.iill.top/m3u/Gather#https://yang-1989.eu.org/#https://tv.iill.top/m3u/Live

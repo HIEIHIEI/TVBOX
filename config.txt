@@ -149,7 +149,7 @@
       "name": "4K Animal World"
     },
     {
-      "url": "https://www.youtube.com/live/gDGl-cC-IVQ?si=JCPBxv5_Car_dyVN",
+      "url": "https://youtu.be/xCLTpcx9aO8",
       "name": "4K Animal World 2"
     },
     {
@@ -161,24 +161,8 @@
       "name": "4K Animal World 4"
     },
     {
-      "url": "https://tv-1.iill.top/4gtv/4gtv-live208",
+      "url": "https://tv.iill.top/4gtv/4gtv-live208",
       "name": "LOVE NATURE"
-    },
-    {
-      "url": "https://tv.iill.top/4gtv/173",
-      "name": "4GTV東森購物一台"
-    },
-    {
-      "url": "https://tv.iill.top/4gtv/287",
-      "name": "4GTV東森購物二台"
-    },
-    {
-      "url": "https://tv.iill.top/4gtv/174",
-      "name": "4GTV東森購物三台"
-    },
-    {
-      "url": "https://tv.iill.top/4gtv/286",
-      "name": "4GTV東森購物五台"
     }
   ]
 }
