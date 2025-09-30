@@ -44,7 +44,7 @@
 //{ "key": "歡視", "name": "👓歡視多線程(SP)", "type": 3, "jar": "  ./f0605.jpg", "api": "csp_AppTTGuard", "timeout": 10, "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "uqGL1bNENExT9fFAy5mE5qU=" },
 { "key": "T4-caiji", "name": "🎥影視採集(T4)", "type": 4, "api": "https://catbox.n13.club/t9/caiji.php" },
 { "key": "T4-bili", "name": "🅱️嗶哩嗶哩-B站(T4)", "type": 4, "api": "https://catbox.n13.club/t9/bili.php", "searchable": 0, "quickSearch": 1},
-{"key":"豆瓣","name":"🔎豆瓣資源搜索","type": 3,"api": "csp_Douban","jar":"./tvkj.jar","searchable": 0,"changeable": 1},
+{"key":"豆瓣","name":"🔎豆瓣資源搜索","type": 3,"api": "csp_Douban","jar":"./bauhe.txt","searchable": 0,"changeable": 1},
 //{"key":"csp_Jpys","name":"👨‍🎓文才(SP)","type":3,"api":"csp_Jpys","jar":"./bauhe.txt","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"csp_Nmysm","name":"👨‍🌾農民秒播(SP)","type":3,"api":"csp_YMNm","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://d.kstore.space/download/3313/mao/nm","jar":" ./Xymz.jar"},
 //{"key":"YoutubeCH","name":"🍀YouTube自訂頻道","type":3,"style":{"type":"oval"},"searchable":0,"api":"./Mud.js","ext":"./YouTube.txt"},
