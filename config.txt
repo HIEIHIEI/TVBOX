@@ -53,7 +53,7 @@
       "name": "民視新聞"
     },
     {
-      "url": "https://youtu.be/MV9mI0GChwo",
+      "url": "https://youtube.com/live/QsGswQvRmtU",
       "name": "三立新聞"
     },
     {
@@ -69,7 +69,7 @@
       "name": "民視"
     },
     {
-      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv066",
+      "url": "https://www.litv.tv/channel/watch/4gtv-4gtv066",
       "name": "台視"
     },
     {
@@ -145,19 +145,19 @@
       "name": "4GTV哆啦A夢台"
     },
     {
-      "url": "https://youtu.be/CqnNNWHNs4Q",
+      "url": "https://youtu.be/ZU922s4Zc74",
       "name": "4K Animal World"
     },
     {
-      "url": "https://youtu.be/xCLTpcx9aO8",
+      "url": "https://youtu.be/ItoNVjSmkx0",
       "name": "4K Animal World 2"
     },
     {
-      "url": "https://youtu.be/2wzCPRm91rc",
+      "url": "https://youtu.be/uXNU0XgGZhs",
       "name": "4K Animal World 3"
     },
     {
-      "url": "https://youtu.be/p8wt6jUjgB4",
+      "url": "https://youtu.be/xCLTpcx9aO8",
       "name": "4K Animal World 4"
     },
     {
