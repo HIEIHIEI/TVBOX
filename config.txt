@@ -121,11 +121,11 @@
       "name": "東森財經"
     },
     {
-      "url": "https://m.4gtv.tv/channel/4gtv-live107?set=4&ch=231",
+      "url": "https://tv.iill.top/4gtv/4gtv-live107",
       "name": "MOMO親子台"
     },
     {
-      "url": "https://tv.iill.top/4gtv/4gtv-live107",
+      "url": "https://tv.iill.top/4gtv/4gtv-live022",
       "name": "經典卡通台"
     },
     {
