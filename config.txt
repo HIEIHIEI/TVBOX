@@ -137,7 +137,7 @@
       "name": "兒童卡通台"
     },
     {
-      "url": "https://www.ofiii.com/channel/watch/litv-longturn01",
+      "url": "https://tv.iill.top/ofiii/litv-xinchuang01",
       "name": "ofiii龍華卡通台"
     },
     {
