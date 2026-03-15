@@ -105,7 +105,7 @@
       "name": "大愛一臺"
     },
     {
-      "url": "https://youtu.be/DTNkEm6jaqQ",
+      "url": "https://youtu.be/OKvWtVoDR8I",
       "name": "大愛二臺"
     },
     {
