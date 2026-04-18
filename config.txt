@@ -69,7 +69,7 @@
       "name": "民視"
     },
     {
-      "url": "https://www.litv.tv/channel/watch/4gtv-4gtv066",
+      "url": "https://youtu.be/uDqQo8a7Xmk",
       "name": "台視"
     },
     {
@@ -79,18 +79,6 @@
     {
       "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv041",
       "name": "華視"
-    },
-    {
-      "url": "https://youtu.be/uDqQo8a7Xmk",
-      "name": "YT台視"
-    },
-    {
-      "url": "https://hls.iill.top/api/Animal-Planet/index.m3u8",
-      "name": "動物星球"
-    },
-    {
-      "url": "https://www.histar.tv/live/settv-taiwan",
-      "name": "星世界 三立台灣台"
     },
     {
       "url": "https://v.iill.top/4gtv/4gtv-live207/index.m3u8",
@@ -113,8 +101,20 @@
       "name": "大愛一臺全球直播"
     },
     {
-      "url": "https://www.youtube.com/live/dKkyfjn8xq8",
+      "url": "https://v.iill.top/FainTV/121/index.m3u8",
       "name": "中天亞洲台"
+    },
+    {
+      "url": "https://v.iill.top/4gtv/media-live073/index.m3u8",
+      "name": "TVBS"
+    },
+    {
+      "url": "https://v.iill.top/4gtv/4gtv-4gtv068/index.m3u8",
+      "name": "TVBS歡樂台"
+    },
+    {
+      "url": "https://v.iill.top/4gtv/4gtv-4gtv070/index.m3u8",
+      "name": "愛爾達娛樂台"
     },
     {
       "url": "https://www.youtube.com/user/57ETFN/live",
@@ -133,16 +133,16 @@
       "name": "精選動漫台"
     },
     {
-      "url": "https://m.4gtv.tv/channel/fast-live409?set=4&ch=334",
-      "name": "兒童卡通台"
-    },
-    {
       "url": "https://tv.iill.top/ofiii/litv-xinchuang01",
       "name": "ofiii龍華卡通台"
     },
     {
       "url": "https://youtu.be/gnDok9gtopw",
-      "name": "YT哆啦A夢"
+      "name": "YT哆啦A夢台"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/ofiii22",
+      "name": "ofiii哆啦A夢台"
     },
     {
       "url": "https://youtu.be/ZU922s4Zc74",
