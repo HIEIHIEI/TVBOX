@@ -141,7 +141,7 @@
       "name": "YT哆啦A夢台"
     },
     {
-      "url": "https://www.ofiii.com/channel/watch/ofiii22",
+      "url": "https://www.ofiii.com/channel/watch/ofiii23",
       "name": "ofiii哆啦A夢台"
     },
     {
