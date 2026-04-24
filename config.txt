@@ -37,7 +37,7 @@
       "name": "中天新聞"
     },
     {
-      "url": "https://youtu.be/xL0ch83RAK8",
+      "url": "https://www.youtube.com/live/MaTO_CAzqJA",
       "name": "台視新聞"
     },
     {
