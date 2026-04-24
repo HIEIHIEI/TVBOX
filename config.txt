@@ -101,10 +101,6 @@
       "name": "大愛一臺全球直播"
     },
     {
-      "url": "https://v.iill.top/FainTV/121/index.m3u8",
-      "name": "中天亞洲台"
-    },
-    {
       "url": "https://v.iill.top/4gtv/media-live073/index.m3u8",
       "name": "TVBS"
     },
@@ -113,12 +109,16 @@
       "name": "TVBS歡樂台"
     },
     {
-      "url": "https://v.iill.top/4gtv/4gtv-4gtv070/index.m3u8",
-      "name": "愛爾達娛樂台"
+      "url": "https://v.iill.top/api/VL-E/index.m3u8",
+      "name": "緯來育樂台"
+    },
+    {
+      "url": "https://v.iill.top/api/VL-Sports/index.m3u8",
+      "name": "緯來體育台"
     },
     {
       "url": "https://www.youtube.com/user/57ETFN/live",
-      "name": "東森財經"
+      "name": "東森財經台"
     },
     {
       "url": "https://v.iill.top/4gtv/4gtv-live107/index.m3u8",
