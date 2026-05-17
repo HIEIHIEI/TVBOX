@@ -65,7 +65,7 @@
       "name": "寰宇新聞"
     },
     {
-      "url": "https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv002/index.m3u8",
+      "url": "https://cdn.19891230.eu.org/4gtv/4gtv-4gtv002/index.m3u8",
       "name": "民視"
     },
     {
@@ -81,7 +81,7 @@
       "name": "華視"
     },
     {
-      "url": "https://cdn-2.ttvb.eu.org/4gtv/4gtv-live207/index.m3u8",
+      "url": "https://cdn.19891230.eu.org/4gtv/4gtv-live207/index.m3u8",
       "name": "三立都會台"
     },
     {
@@ -101,19 +101,19 @@
       "name": "大愛一臺全球直播"
     },
     {
-      "url": "https://cdn-2.ttvb.eu.org/4gtv/media-live073/index.m3u8",
+      "url": "https://cdn.19891230.eu.org/4gtv/media-live073/index.m3u8",
       "name": "TVBS"
     },
     {
-      "url": "https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv068/index.m3u8",
+      "url": "https://cdn.19891230.eu.org/4gtv/4gtv-4gtv068/index.m3u8",
       "name": "TVBS歡樂台"
     },
     {
-      "url": "https://cdn-2.ttvb.eu.org/api/VL-E/index.m3u8",
+      "url": "https://cdn.19891230.eu.org/api/VL-E/index.m3u8",
       "name": "緯來育樂台"
     },
     {
-      "url": "https://cdn-2.ttvb.eu.org/api/VL-Sports/index.m3u8",
+      "url": "https://cdn.19891230.eu.org/api/VL-Sports/index.m3u8",
       "name": "緯來體育台"
     },
     {
@@ -121,19 +121,19 @@
       "name": "東森財經台"
     },
     {
-      "url": "https://cdn-2.ttvb.eu.org/4gtv/4gtv-live107/index.m3u8",
+      "url": "https://cdn.19891230.eu.org/4gtv/4gtv-live107/index.m3u8",
       "name": "MOMO親子台"
     },
     {
-      "url": "https://cdn-2.ttvb.eu.org/4gtv/4gtv-live022/index.m3u8",
+      "url": "https://cdn.19891230.eu.org/4gtv/4gtv-live022/index.m3u8",
       "name": "經典卡通台"
     },
     {
-      "url": "https://cdn-2.ttvb.eu.org/4gtv/4gtv-live024/index.m3u8",
+      "url": "https://cdn.19891230.eu.org/4gtv/4gtv-live024/index.m3u8",
       "name": "精選動漫台"
     },
     {
-      "url": "https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv057/index.m3u8",
+      "url": "https://cdn.19891230.eu.org/4gtv/4gtv-4gtv057/index.m3u8",
       "name": "靖洋卡通台"
     },
     {
@@ -161,7 +161,7 @@
       "name": "4K Animal World 4"
     },
     {
-      "url": "https://cdn-2.ttvb.eu.org/4gtv/4gtv-live208/index.m3u8",
+      "url": "https://cdn.19891230.eu.org/4gtv/4gtv-live208/index.m3u8",
       "name": "LOVE NATURE"
     }
   ]
