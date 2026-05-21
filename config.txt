@@ -1,19 +1,19 @@
 {
   "channelList": [
     {
-      "url": "https://youtu.be/ViJ3XiN6Q3M",
+      "url": "https://youtu.be/wRdZ2t8Vd6k",
       "name": "東森購物一台"
     },
     {
-      "url": "https://youtu.be/_Vlzn9qAHD4",
+      "url": "https://youtu.be/J3t9N0vciPI",
       "name": "東森購物二台"
     },
     {
-      "url": "https://youtu.be/Z50JFuNgvB0",
+      "url": "https://youtu.be/tUvQg2HgIbs",
       "name": "東森購物三台"
     },
     {
-      "url": "https://youtu.be/u0NYyH3ZesE",
+      "url": "https://youtu.be/2IGZjBPTPT8",
       "name": "東森購物五台"
     },
     {
