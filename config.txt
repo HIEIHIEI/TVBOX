@@ -53,7 +53,7 @@
       "name": "民視新聞"
     },
     {
-      "url": "https://youtube.com/live/QsGswQvRmtU",
+      "url": "https://youtube.com/live/yeYC0mbSIOo",
       "name": "三立新聞"
     },
     {
@@ -141,7 +141,7 @@
       "name": "龍華卡通台"
     },
     {
-      "url": "https://youtu.be/gnDok9gtopw",
+      "url": "https://youtu.be/IgRPlOv-EIs",
       "name": "哆啦A夢台"
     },
     {
