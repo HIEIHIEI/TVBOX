@@ -1,7 +1,7 @@
 {"warningText": "免費接口，請勿付費。","warningText": "",
 "urls":[
-{"name":"【天微VIP線路】","url":""},
 {"name":"【七星影倉線路】","url":"https://7337.kstore.space/qxys/%E7%A6%81%E6%AD%A2%E4%BC%A0%E6%92%AD.json"},
+{"name":"【天微VIP線路】","url":""},
 {"name":"【OK線路】","url":""},
 {"name":"【OK線路(備)】","url":""},
 {"name":"【毆歌線路】","url":"https://xn--z99z-rp5imh.v.nxog.top/apitv.php?id=3"},
@@ -33,8 +33,6 @@
 {"name":"【L佬線路】","url":""},
 {"name":"【短劇合集線路】","url":""},
 {"name":"【測試線路】","url":"https://raw.githubusercontent.com/HIEIHIEI/TVBOX/main/07061553.json"},
-{"name":"【測試線路2】","url":"https://catbox.n13.club/jk/t4.json"},
-{"name":"【測試線路3】","url":""},
-{"name":"【測試線路4】","url":"https://6800.kstore.vip/fish.json"}
+{"name":"【測試線路2】","url":"https://6800.kstore.vip/fish.json"}
 ]
 }
