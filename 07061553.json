@@ -2,7 +2,7 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "lives":[
-{"name":"Gather exo","type":0,"url":"https://iptv.yang-1989.eu.org/m3u/Gather.m3u","playerType":2},
+{"name":"Gather exo","type":0,"url":"https://iptv.yang-1989.xyz/playlist.m3u","playerType":2},
 {"name":"直播源","type":0,"url":"https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt","playerType":2},
 {"name":"Gather Live","type":0,"url":"https://live.yang-1989.eu.org/Live.m3u","playerType":2},
 {"name":"YOUTUBE 直播","type":0,"url":"./YouTube2.txt","playerType":2},

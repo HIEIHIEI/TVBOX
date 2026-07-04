@@ -39,4 +39,4 @@ YT綜合直播合集,https://youtu.be/0ePhPlTJbGo#https://youtu.be/IkVUGn_uTCE#h
 4K Animal World,https://youtu.be/ZU922s4Zc74#https://youtu.be/ItoNVjSmkx0#https://youtu.be/uXNU0XgGZhs#https://youtu.be/xCLTpcx9aO8
 LOVE NATURE,https://cdn.19891230.eu.org/4gtv/4gtv-live208/index.m3u8#https://hls.iill.top/api/Animal-Planet/index.m3u8
 訂閱頻道,#genre#
-訂閱,https://iptv.yang-1989.eu.org/m3u/Gather.m3u#https://yang-1989.eu.org/#https://live.yang-1989.eu.org/Live.m3u
+訂閱,https://iptv.yang-1989.xyz/playlist.m3u#https://yang-1989.eu.org/#https://live.yang-1989.eu.org/Live.m3u
