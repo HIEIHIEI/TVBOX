@@ -3,7 +3,7 @@ YouTube頻道,#genre#
 東森購物二台,https://youtu.be/J3t9N0vciPI#https://cdn.19891230.eu.org/4gtv/4gtv-live046/index.m3u8
 東森購物三台,https://youtu.be/tUvQg2HgIbs#https://cdn.19891230.eu.org/4gtv/4gtv-live048/index.m3u8
 東森購物五台,https://youtu.be/2IGZjBPTPT8#https://cdn.19891230.eu.org/4gtv/4gtv-live049/index.m3u8
-MOMO購物一台,https://youtu.be/_pZQ1Lk0xMA
+MOMO購物一台,https://youtu.be/myhQiZF4WRs
 MOMO購物二台,https://youtu.be/xbNWkUyxQGM
 TVBS新聞,https://youtu.be/m_dhMSvUCIc#https://cdn.19891230.eu.org/4gtv/media-live072/index.m3u8
 東森新聞,https://youtu.be/V1p33hqPrUk
