@@ -17,7 +17,7 @@
       "name": "東森購物五台"
     },
     {
-      "url": "https://youtu.be/_8FQRM74W8Y",
+      "url": "https://youtu.be/7__QARkZdNs",
       "name": "MOMO購物一台"
     },
     {
