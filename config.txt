@@ -141,7 +141,7 @@
       "name": "龍華卡通台"
     },
     {
-      "url": "https://youtu.be/IgRPlOv-EIs",
+      "url": "https://youtu.be/lWvcuHZfLdI",
       "name": "哆啦A夢台"
     },
     {
@@ -153,7 +153,7 @@
       "name": "4K Animal World 2"
     },
     {
-      "url": "https://youtu.be/uXNU0XgGZhs",
+      "url": "https://youtu.be/OQe7OU4abmA",
       "name": "4K Animal World 3"
     },
     {
