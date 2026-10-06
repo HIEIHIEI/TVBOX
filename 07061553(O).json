@@ -2,15 +2,9 @@
 "wallpaper":"https://t.alcy.cc/fj",
 
 "lives":[
-{"name":"Gather exo","type":0,"url":"https://iptv.yang-1989.xyz/playlist.m3u","playerType":2},
-{"name":"直播源","type":0,"url":"https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt","playerType":2},
+{"name":"Gather Exo","type":0,"url":"https://iptv.yang-1989.xyz/playlist.m3u","playerType":2},
 {"name":"Gather Live","type":0,"url":"https://live.yang-1989.eu.org/Live.m3u","playerType":2},
-{"name":"YOUTUBE 直播","type":0,"url":"./live/YouTube2.txt","playerType":2},
-{"name":"smart exo","boot":false,"pass":true,"url":"https://t4.doube.eu.org/smt.txt","logo":"https://live.fanmingming.com/tv/{name}.png","playerType":2,"header":{"CLIENT-IP":"127.0.0.1","X-FORWARDED-FOR":"127.0.0.1"}},
-{"name":"安博 exo","type":0,"url":"https://tang.hz.cz/zb/anbo?token=cb70f1ae","playerType":2},
-{"name":"台湾 exo","type":0,"url":"https://raw.githubusercontent.com/shawn82/fm/main/lib/taiwan.m3u","playerType":2},	
-{"name":"美国","type":0,"url":"https://raw.githubusercontent.com/shawn82/fm/main/lib/us.m3u8","playerType":2},
-{"name":"飛龍影視","type":0,"playerType":1,"url":"https://gitlab.com/tvtg/vip/-/raw/main/fl2024.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}"}
+{"name":"YOUTUBE 直播","type":0,"url":"./live/YouTube2.txt","playerType":2}
 ],
 
 "spider":"./jar/xyqxbpq.jar",
@@ -410,6 +404,12 @@
 {"name":"CL4K01","type":0,"url":"https://ys.ling00.cn/CL4K/?url=","ext":{"flag":["CL4K","qq","腾讯"]}},
 {"name":"CL4K02","type":0,"url":"https://app.okmedcos.com/4k/?url=","ext":{"flag":["CL4K","qq","腾讯","pptv","PPTV"]}}
 ],
+
+"doh": [{"name": "Google","url": "https://dns.google/dns-query","ips": ["8.8.4.4","8.8.8.8"]},{"name": "Cloudflare","url": "https://cloudflare-dns.com/dns-query","ips": ["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name": "AdGuard","url": "https://dns.adguard.com/dns-query","ips": ["94.140.14.140","94.140.14.141"]},
+{"name": "DNSWatch","url": "https://resolver2.dns.watch/dns-query","ips": ["84.200.69.80","84.200.70.40"]},
+{"name": "Quad9","url": "https://dns.quad9.net/dns-quer","ips": ["9.9.9.9","149.112.112.112"]}
+],
+
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
 {"group":"软解码","options":[
